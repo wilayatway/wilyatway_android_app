@@ -1,0 +1,84 @@
+name: wilayat_way_apk
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_local_notifications: ^19.1.0
+  timezone: ^0.10.1
+  permission_handler: ^12.0.0+1
+  flutter_native_timezone: 
+    path: plugins/flutter_native_timezone
+  url_launcher: ^6.2.6
+  font_awesome_flutter: ^10.7.0
+  intl: ^0.20.2
+  http: ^1.4.0
+  shared_preferences: ^2.2.2
+  flutter_html: ^3.0.0-beta.2  # for rendering Arabic text properly
+  cached_network_image: ^3.3.0  # if you need to cache any images
+  youtube_player_iframe: ^5.2.1
+  json_annotation: ^4.8.1
+  google_fonts: ^5.1.0
+  quran: ^1.3.3
+  firebase_core: ^2.25.0
+  cloud_firestore: ^4.13.0
+  flutter_islamic_icons: ^1.0.2
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/profile.png"
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+    # - assets\collection\maamlaat.json
+    # - assets/collection/daroods/100-darood.json
+    - assets/data/asma_e_husna.json
+    - assets/data/asma_e_nabi.json
+  fonts:
+    - family: UthmanArabic
+      fonts:
+        - asset: assets/fonts/UthmanArabic.ttf
+    - family: AlviNastaleeq
+      fonts:
+        - asset: assets/fonts/AlviNastaleeqRegular.ttf
+    - family: NotoNastaliqUrdu
+      fonts:
+        - asset: assets/fonts/NotoNastaliqUrdu-Regular.ttf
+    - family: AlQalam
+      fonts:
+        - asset: assets/fonts/al-qalam-quran-org.ttf
+    - family: almarai
+      fonts:
+        - asset: assets/fonts/almarai-regular-full.ttf
+    - family: ElMessiri
+      fonts:
+        - asset: assets/fonts/ElMessiri-SemiBold.ttf
+    - family: MeQuran
+      fonts:
+        - asset: assets/fonts/me_quran.ttf
+    - family: Hafs
+      fonts:
+        - asset: assets/fonts/Hafs.ttf
+    - family: UthmanTN
+      fonts:
+        - asset: assets/fonts/UthmanTN.ttf        

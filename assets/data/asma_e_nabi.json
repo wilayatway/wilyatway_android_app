@@ -1,0 +1,893 @@
+[
+    {
+        "arabic": "محمد",
+        "roman": "Muhammad",
+        "english": "The Praised One",
+        "urdu": "تعریف کیا گیا",
+        "romanDesc": "Muhammad ka matlab hai wo zaat jo har tarah se taareef ke qabil hai, jaisa ke Surah Al-Ahzab (33:40) mein ishara hai. Hazrat Abdul Qadir Jilani 'Ghunyat at-Talibin' mein farmate hain, 'Muhammad (SAW) ka zikr qalb ko noor-e-ilahi se roshan karta hai.' Qadri silsila isay 201 bar rozana baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Muhammad signifies the one worthy of all praise, as alluded to in Surah Al-Ahzab (33:40). Shaykh Abdul Qadir Jilani in 'Ghunyat at-Talibin' states, 'The zikr of Muhammad (PBUH) illuminates the heart with divine light.' The Qadri order suggests reciting it 201 times daily after Fajr.",
+        "urduDesc": "محمد کا مطلب ہے وہ ذات جو ہر طرح سے تعریف کے قابل ہے، جیسا کہ سورۃ الاحزاب (33:40) میں اشارہ ہے۔ حضرت عبدالقادر جیلانی 'غنیۃ الطالبین' میں فرماتے ہیں، 'محمد (صلی اللہ علیہ وسلم) کا ذکر قلب کو نور الٰہی سے روشن کرتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 201 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "أحمد",
+        "roman": "Ahmad",
+        "english": "The Most Praiseworthy",
+        "urdu": "سب سے زیادہ قابل تعریف",
+        "romanDesc": "Ahmad ka matlab hai wo jo sab se ziyada taareef ke layak hai, jaisa ke Surah As-Saff (61:6) mein zikr hai. Hazrat Ibn Arabi 'Futuhat al-Makkiyya' mein farmate hain, 'Ahmad (SAW) ka zikr qalb ko rehmat-e-nabawi se bhar deta hai.' Qadri silsila isay 100 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Ahmad signifies the most praiseworthy, as mentioned in Surah As-Saff (61:6). Ibn Arabi in 'Futuhat al-Makkiyya' states, 'The zikr of Ahmad (PBUH) fills the heart with prophetic mercy.' The Qadri order suggests reciting it 100 times daily after Zuhr.",
+        "urduDesc": "احمد کا مطلب ہے وہ جو سب سے زیادہ تعریف کے لائق ہے، جیسا کہ سورۃ الصف (61:6) میں ذکر ہے۔ حضرت ابن عربی 'فتوحات مکیہ' میں فرماتے ہیں، 'احمد (صلی اللہ علیہ وسلم) کا ذکر قلب کو رحمت نبوی سے بھر دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 100 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المصطفى",
+        "roman": "Al-Mustafa",
+        "english": "The Chosen One",
+        "urdu": "چنیدہ",
+        "romanDesc": "Al-Mustafa ka matlab hai wo jo Allah ne chuna, jaisa ke Surah Al-Hajj (22:75) mein ishara hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'Al-Mustafa (SAW) ka zikr qalb ko Allah ki pasand ka noor deta hai.' Qadri silsila isay 99 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Mustafa signifies the one chosen by Allah, as alluded to in Surah Al-Hajj (22:75). Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of Al-Mustafa (PBUH) grants the heart the light of divine favor.' The Qadri order suggests reciting it 99 times daily after Asr.",
+        "urduDesc": "المصطفٰی کا مطلب ہے وہ جو اللہ نے چنا، جیسا کہ سورۃ الحج (22:75) میں اشارہ ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'المصطفٰی (صلی اللہ علیہ وسلم) کا ذکر قلب کو اللہ کی پسند کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 99 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الرسول",
+        "roman": "Ar-Rasul",
+        "english": "The Messenger",
+        "urdu": "پیغامبر",
+        "romanDesc": "Ar-Rasul ka matlab hai Allah ka bheja hua paighambar, jaisa ke Surah Al-Fath (48:29) mein zikr hai. Hazrat Abdul Qadir Jilani 'Futooh al-Ghaib' mein farmate hain, 'Ar-Rasul (SAW) ka zikr qalb ko hidayat ka rasta dikhata hai.' Qadri silsila isay 313 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Ar-Rasul signifies the messenger sent by Allah, as mentioned in Surah Al-Fath (48:29). Shaykh Abdul Qadir Jilani in 'Futooh al-Ghaib' states, 'The zikr of Ar-Rasul (PBUH) guides the heart to the path of righteousness.' The Qadri order suggests reciting it 313 times daily after Maghrib.",
+        "urduDesc": "الرسول کا مطلب ہے اللہ کا بھیجا ہوا پیغمبر، جیسا کہ سورۃ الفتح (48:29) میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'فتوح الغیب' میں فرماتے ہیں، 'الرسول (صلی اللہ علیہ وسلم) کا ذکر قلب کو ہدایت کا راستہ دکھاتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 313 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "النبي",
+        "roman": "An-Nabi",
+        "english": "The Prophet",
+        "urdu": "نبی",
+        "romanDesc": "An-Nabi ka matlab hai Allah ka nabi aur khabar lanay wala, jaisa ke Surah Al-Tahrim (66:9) mein zikr hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'An-Nabi (SAW) ka zikr qalb ko nabuwwat ka noor deta hai.' Qadri silsila isay 66 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "An-Nabi signifies the prophet and bringer of divine news, as mentioned in Surah Al-Tahrim (66:9). Khwaja Moinuddin Chishti states, 'The zikr of An-Nabi (PBUH) fills the heart with the light of prophethood.' The Qadri order suggests reciting it 66 times daily after Fajr.",
+        "urduDesc": "النبی کا مطلب ہے اللہ کا نبی اور خبر لانے والا، جیسا کہ سورۃ التحریم (66:9) میں ذکر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'النبی (صلی اللہ علیہ وسلم) کا ذکر قلب کو نبوت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الأمين",
+        "roman": "Al-Amin",
+        "english": "The Trustworthy",
+        "urdu": "امانت دار",
+        "romanDesc": "Al-Amin ka matlab hai wo jo har amanat ka haq ada karta hai, jaisa ke seerat mein unki shohrat hai. Hazrat Abdul Qadir Jilani 'Sirr al-Asrar' mein farmate hain, 'Al-Amin (SAW) ka zikr qalb ko aman aur yaqeen se bhar deta hai.' Qadri silsila isay 33 bar baad az-Isha padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Amin signifies the one who fulfills every trust, as known in the Prophet’s (PBUH) biography. Shaykh Abdul Qadir Jilani in 'Sirr al-Asrar' states, 'The zikr of Al-Amin (PBUH) fills the heart with peace and certainty.' The Qadri order suggests reciting it 33 times daily after Isha.",
+        "urduDesc": "الامین کا مطلب ہے وہ جو ہر امانت کا حق ادا کرتا ہے، جیسا کہ سیرت میں ان کی شہرت ہے۔ حضرت عبدالقادر جیلانی 'سر الاسرار' میں فرماتے ہیں، 'الامین (صلی اللہ علیہ وسلم) کا ذکر قلب کو امن اور یقین سے بھر دیتا ہے۔' قادری سلسلہ اسے روزانہ عشاء کے بعد 33 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الصادق",
+        "roman": "As-Sadiq",
+        "english": "The Truthful",
+        "urdu": "سچا",
+        "romanDesc": "As-Sadiq ka matlab hai wo jo hamesha sach bolta hai, jaisa ke seerat mein unki sadaqat zikr hai. Hazrat Bahauddin Naqshband farmate hain, 'As-Sadiq (SAW) ka zikr qalb ko sachai ka noor deta hai.' Qadri silsila isay 55 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "As-Sadiq signifies the one who always speaks the truth, as noted in the Prophet’s (PBUH) biography. Bahauddin Naqshband states, 'The zikr of As-Sadiq (PBUH) grants the heart the light of truth.' The Qadri order suggests reciting it 55 times daily after Zuhr.",
+        "urduDesc": "الصادق کا مطلب ہے وہ جو ہمیشہ سچ بولتا ہے، جیسا کہ سیرت میں ان کی صداقت کا ذکر ہے۔ حضرت بہاؤالدین نقشبند فرماتے ہیں، 'الصادق (صلی اللہ علیہ وسلم) کا ذکر قلب کو سچائی کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 55 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الهادي",
+        "roman": "Al-Hadi",
+        "english": "The Guide",
+        "urdu": "ہدایت دینے والا",
+        "romanDesc": "Al-Hadi ka matlab hai wo jo hidayat ka rasta dikhata hai, jaisa ke Surah Al-Furqan (25:31) mein ishara hai. Hazrat Abdul Qadir Jilani 'Ghunyat at-Talibin' mein farmate hain, 'Al-Hadi (SAW) ka zikr qalb ko sirat-e-mustaqeem par rakhta hai.' Qadri silsila isay 77 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Hadi signifies the one who shows the path of guidance, as alluded to in Surah Al-Furqan (25:31). Shaykh Abdul Qadir Jilani in 'Ghunyat at-Talibin' states, 'The zikr of Al-Hadi (PBUH) keeps the heart on the straight path.' The Qadri order suggests reciting it 77 times daily after Asr.",
+        "urduDesc": "الہادی کا مطلب ہے وہ جو ہدایت کا راستہ دکھاتا ہے، جیسا کہ سورۃ الفرقان (25:31) میں اشارہ ہے۔ حضرت عبدالقادر جیلانی 'غنیۃ الطالبین' میں فرماتے ہیں، 'الہادی (صلی اللہ علیہ وسلم) کا ذکر قلب کو صراط مستقیم پر رکھتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 77 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الرحمة",
+        "roman": "Ar-Rahmah",
+        "english": "The Mercy",
+        "urdu": "رحمت",
+        "romanDesc": "Ar-Rahmah ka matlab hai wo jo tamam kainaat ke liye rehmat hai, jaisa ke Surah Al-Anbiya (21:107) mein zikr hai. Hazrat Ibn Arabi 'Futuhat al-Makkiyya' mein farmate hain, 'Ar-Rahmah (SAW) ka zikr qalb ko rehmat-e-ilahi se jorta hai.' Qadri silsila isay 100 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Ar-Rahmah signifies the mercy for all creation, as mentioned in Surah Al-Anbiya (21:107). Ibn Arabi in 'Futuhat al-Makkiyya' states, 'The zikr of Ar-Rahmah (PBUH) connects the heart to divine mercy.' The Qadri order suggests reciting it 100 times daily after Maghrib.",
+        "urduDesc": "الرحمة کا مطلب ہے وہ جو تمام کائنات کے لیے رحمت ہے، جیسا کہ سورۃ الانبیاء (21:107) میں ذکر ہے۔ حضرت ابن عربی 'فتوحات مکیہ' میں فرماتے ہیں، 'الرحمة (صلی اللہ علیہ وسلم) کا ذکر قلب کو رحمت الٰہی سے جوڑتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 100 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الشهيد",
+        "roman": "Ash-Shahid",
+        "english": "The Witness",
+        "urdu": "گواہ",
+        "romanDesc": "Ash-Shahid ka matlab hai wo jo har cheez ka gawah hai, jaisa ke Surah Al-Buruj (85:9) mein ishara hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'Ash-Shahid (SAW) ka zikr qalb ko Allah ke huzoor gawahi ka ehsaas deta hai.' Qadri silsila isay 50 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Ash-Shahid signifies the one who witnesses all things, as alluded to in Surah Al-Buruj (85:9). Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of Ash-Shahid (PBUH) instills the heart with awareness of divine witnessing.' The Qadri order suggests reciting it 50 times daily after Fajr.",
+        "urduDesc": "الشہید کا مطلب ہے وہ جو ہر چیز کا گواہ ہے، جیسا کہ سورۃ البروج (85:9) میں اشارہ ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'الشہید (صلی اللہ علیہ وسلم) کا ذکر قلب کو اللہ کے حضور گواہی کا احساس دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 50 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المبشر",
+        "roman": "Al-Mubashshir",
+        "english": "The Bringer of Glad Tidings",
+        "urdu": "خوشخبری دینے والا",
+        "romanDesc": "Al-Mubashshir ka matlab hai wo jo khushkhabri lata hai, jaisa ke Surah Al-Ahzab (33:45) mein zikr hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'Al-Mubashshir (SAW) ka zikr qalb ko umeed ka noor deta hai.' Qadri silsila isay 70 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Mubashshir signifies the bringer of glad tidings, as mentioned in Surah Al-Ahzab (33:45). Khwaja Moinuddin Chishti states, 'The zikr of Al-Mubashshir (PBUH) fills the heart with the light of hope.' The Qadri order suggests reciting it 70 times daily after Zuhr.",
+        "urduDesc": "المبشر کا مطلب ہے وہ جو خوشخبری لاتا ہے، جیسا کہ سورۃ الاحزاب (33:45) میں ذکر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'المبشر (صلی اللہ علیہ وسلم) کا ذکر قلب کو امید کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 70 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "النذير",
+        "roman": "An-Nadhir",
+        "english": "The Warner",
+        "urdu": "خبردار کرنے والا",
+        "romanDesc": "An-Nadhir ka matlab hai wo jo khatra se agah karta hai, jaisa ke Surah Al-Ahzab (33:45) mein zikr hai. Hazrat Bahauddin Naqshband farmate hain, 'An-Nadhir (SAW) ka zikr qalb ko Allah ke azab se hifazat ka ehsaas deta hai.' Qadri silsila isay 80 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "An-Nadhir signifies the one who warns of danger, as mentioned in Surah Al-Ahzab (33:45). Bahauddin Naqshband states, 'The zikr of An-Nadhir (PBUH) instills in the heart awareness of protection from divine punishment.' The Qadri order suggests reciting it 80 times daily after Asr.",
+        "urduDesc": "النذیر کا مطلب ہے وہ جو خطرے سے آگاہ کرتا ہے، جیسا کہ سورۃ الاحزاب (33:45) میں ذکر ہے۔ حضرت بہاؤالدین نقشبند فرماتے ہیں، 'النذیر (صلی اللہ علیہ وسلم) کا ذکر قلب کو اللہ کے عذاب سے حفاظت کا احساس دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 80 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "السراج",
+        "roman": "As-Siraj",
+        "english": "The Lamp",
+        "urdu": "چراغ",
+        "romanDesc": "As-Siraj ka matlab hai wo jo noor ka chiragh hai, jaisa ke Surah Al-Ahzab (33:46) mein zikr hai. Hazrat Abdul Qadir Jilani 'Futooh al-Ghaib' mein farmate hain, 'As-Siraj (SAW) ka zikr qalb ko noor-e-nabuwwat se roshan karta hai.' Qadri silsila isay 90 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "As-Siraj signifies the lamp of light, as mentioned in Surah Al-Ahzab (33:46). Shaykh Abdul Qadir Jilani in 'Futooh al-Ghaib' states, 'The zikr of As-Siraj (PBUH) illuminates the heart with the light of prophethood.' The Qadri order suggests reciting it 90 times daily after Maghrib.",
+        "urduDesc": "السراج کا مطلب ہے وہ جو نور کا چراغ ہے، جیسا کہ سورۃ الاحزاب (33:46) میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'فتوح الغیب' میں فرماتے ہیں، 'السراج (صلی اللہ علیہ وسلم) کا ذکر قلب کو نور نبوت سے روشن کرتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 90 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المنير",
+        "roman": "Al-Munir",
+        "english": "The Illuminator",
+        "urdu": "روشن کرنے والا",
+        "romanDesc": "Al-Munir ka matlab hai wo jo roshni phailata hai, jaisa ke Surah Al-Ahzab (33:46) mein zikr hai. Hazrat Ibn Arabi 'Futuhat al-Makkiyya' mein farmate hain, 'Al-Munir (SAW) ka zikr qalb ko roshni-e-ilahi se bhar deta hai.' Qadri silsila isay 60 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Munir signifies the one who spreads light, as mentioned in Surah Al-Ahzab (33:46). Ibn Arabi in 'Futuhat al-Makkiyya' states, 'The zikr of Al-Munir (PBUH) fills the heart with divine illumination.' The Qadri order suggests reciting it 60 times daily after Fajr.",
+        "urduDesc": "المنیر کا مطلب ہے وہ جو روشنی پھیلاتا ہے، جیسا کہ سورۃ الاحزاب (33:46) میں ذکر ہے۔ حضرت ابن عربی 'فتوحات مکیہ' میں فرماتے ہیں، 'المنیر (صلی اللہ علیہ وسلم) کا ذکر قلب کو روشنی الٰہی سے بھر دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 60 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الطاهر",
+        "roman": "At-Tahir",
+        "english": "The Pure",
+        "urdu": "پاک",
+        "romanDesc": "At-Tahir ka matlab hai wo jo har aeb se pak hai, jaisa ke seerat mein unki taharat zikr hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'At-Tahir (SAW) ka zikr qalb ko paakizgi ka noor deta hai.' Qadri silsila isay 88 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "At-Tahir signifies the one free from all flaws, as noted in the Prophet’s (PBUH) biography. Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of At-Tahir (PBUH) grants the heart the light of purity.' The Qadri order suggests reciting it 88 times daily after Zuhr.",
+        "urduDesc": "الطاہر کا مطلب ہے وہ جو ہر عیب سے پاک ہے، جیسا کہ سیرت میں ان کی طہارت کا ذکر ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'الطاہر (صلی اللہ علیہ وسلم) کا ذکر قلب کو پاکیزگی کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 88 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المطهر",
+        "roman": "Al-Mutahhir",
+        "english": "The Purifier",
+        "urdu": "پاک کرنے والا",
+        "romanDesc": "Al-Mutahhir ka matlab hai wo jo doosron ko paak karta hai, jaisa ke unki taleem se zahir hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'Al-Mutahhir (SAW) ka zikr qalb ko gunahon se paak karta hai.' Qadri silsila isay 44 bar baad az-Isha padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Mutahhir signifies the one who purifies others, as evident from his teachings. Khwaja Moinuddin Chishti states, 'The zikr of Al-Mutahhir (PBUH) cleanses the heart of sins.' The Qadri order suggests reciting it 44 times daily after Isha.",
+        "urduDesc": "المطہر کا مطلب ہے وہ جو دوسروں کو پاک کرتا ہے، جیسا کہ ان کی تعلیم سے ظاہر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'المطہر (صلی اللہ علیہ وسلم) کا ذکر قلب کو گناہوں سے پاک کرتا ہے۔' قادری سلسلہ اسے روزانہ عشاء کے بعد 44 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الخاتم",
+        "roman": "Al-Khatim",
+        "english": "The Seal",
+        "urdu": "مہر",
+        "romanDesc": "Al-Khatim ka matlab hai wo jo nabuwwat ki mohar hai, jaisa ke Surah Al-Ahzab (33:40) mein zikr hai. Hazrat Abdul Qadir Jilani 'Sirr al-Asrar' mein farmate hain, 'Al-Khatim (SAW) ka zikr qalb ko nabuwwat ke tamam hone ka noor deta hai.' Qadri silsila isay 99 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Khatim signifies the seal of prophethood, as mentioned in Surah Al-Ahzab (33:40). Shaykh Abdul Qadir Jilani in 'Sirr al-Asrar' states, 'The zikr of Al-Khatim (PBUH) grants the heart the light of the completion of prophethood.' The Qadri order suggests reciting it 99 times daily after Fajr.",
+        "urduDesc": "الخاتم کا مطلب ہے وہ جو نبوت کی مہر ہے، جیسا کہ سورۃ الاحزاب (33:40) میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'سر الاسرار' میں فرماتے ہیں، 'الخاتم (صلی اللہ علیہ وسلم) کا ذکر قلب کو نبوت کے تمام ہونے کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 99 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "العاقب",
+        "roman": "Al-Aqib",
+        "english": "The Last in Succession",
+        "urdu": "آخری جانشین",
+        "romanDesc": "Al-Aqib ka matlab hai wo jo nabiyon ke aakhir mein hai, jaisa ke Hadith mein zikr hai. Hazrat Bahauddin Naqshband farmate hain, 'Al-Aqib (SAW) ka zikr qalb ko nabuwwat ke ikhtitam ka yaqeen deta hai.' Qadri silsila isay 66 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Aqib signifies the last in the line of prophets, as mentioned in Hadith. Bahauddin Naqshband states, 'The zikr of Al-Aqib (PBUH) instills in the heart certainty in the end of prophethood.' The Qadri order suggests reciting it 66 times daily after Zuhr.",
+        "urduDesc": "العاقب کا مطلب ہے وہ جو نبیوں کے آخر میں ہے، جیسا کہ حدیث میں ذکر ہے۔ حضرت بہاؤالدین نقشبند فرماتے ہیں، 'العاقب (صلی اللہ علیہ وسلم) کا ذکر قلب کو نبوت کے اختتام کا یقین دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الفاتح",
+        "roman": "Al-Fatih",
+        "english": "The Opener",
+        "urdu": "کھولنے والا",
+        "romanDesc": "Al-Fatih ka matlab hai wo jo rah-e-haq ka darwaza kholta hai, jaisa ke seerat mein unki fatah zikr hai. Hazrat Abdul Qadir Jilani 'Futooh al-Ghaib' mein farmate hain, 'Al-Fatih (SAW) ka zikr qalb ke band darwazon ko kholta hai.' Qadri silsila isay 77 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Fatih signifies the one who opens the door to truth, as noted in the Prophet’s (PBUH) biography. Shaykh Abdul Qadir Jilani in 'Futooh al-Ghaib' states, 'The zikr of Al-Fatih (PBUH) opens the closed doors of the heart.' The Qadri order suggests reciting it 77 times daily after Asr.",
+        "urduDesc": "الفاتح کا مطلب ہے وہ جو راہ حق کا دروازہ کھولتا ہے، جیسا کہ سیرت میں ان کی فتح کا ذکر ہے۔ حضرت عبدالقادر جیلانی 'فتوح الغیب' میں فرماتے ہیں، 'الفاتح (صلی اللہ علیہ وسلم) کا ذکر قلب کے بند دروازوں کو کھولتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 77 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المهيمن",
+        "roman": "Al-Muhaimin",
+        "english": "The Guardian",
+        "urdu": "نگہبان",
+        "romanDesc": "Al-Muhaimin ka matlab hai wo jo ummat ki hifazat karta hai, jaisa ke unki shafa’at se zahir hai. Hazrat Ibn Arabi 'Fusus al-Hikam' mein farmate hain, 'Al-Muhaimin (SAW) ka zikr qalb ko shafa’at ka yaqeen deta hai.' Qadri silsila isay 145 bar baad az-Isha padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Muhaimin signifies the guardian of the ummah, as evident from his intercession. Ibn Arabi in 'Fusus al-Hikam' states, 'The zikr of Al-Muhaimin (PBUH) instills in the heart certainty in intercession.' The Qadri order suggests reciting it 145 times daily after Isha.",
+        "urduDesc": "المہیمن کا مطلب ہے وہ جو امت کی حفاظت کرتا ہے، جیسا کہ ان کی شفاعت سے ظاہر ہے۔ حضرت ابن عربی 'فیوض الحکم' میں فرماتے ہیں، 'المہیمن (صلی اللہ علیہ وسلم) کا ذکر قلب کو شفاعت کا یقین دیتا ہے۔' قادری سلسلہ اسے روزانہ عشاء کے بعد 145 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الشفيع",
+        "roman": "Ash-Shafi’",
+        "english": "The Intercessor",
+        "urdu": "شفیع",
+        "romanDesc": "Ash-Shafi’ ka matlab hai wo jo qiyamat ke din ummat ke liye shafa’at karega, jaisa ke Hadith mein zikr hai. Hazrat Abdul Qadir Jilani 'Ghunyat at-Talibin' mein farmate hain, 'Ash-Shafi’ (SAW) ka zikr qalb ko shafa’at ke yaqeen se bhar deta hai.' Qadri silsila isay 100 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Ash-Shafi’ signifies the one who will intercede for the ummah on the Day of Judgment, as mentioned in Hadith. Shaykh Abdul Qadir Jilani in 'Ghunyat at-Talibin' states, 'The zikr of Ash-Shafi’ (PBUH) fills the heart with certainty of intercession.' The Qadri order suggests reciting it 100 times daily after Fajr.",
+        "urduDesc": "الشفيع کا مطلب ہے وہ جو قیامت کے دن امت کے لیے شفاعت کرے گا، جیسا کہ حدیث میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'غنیۃ الطالبین' میں فرماتے ہیں، 'الشفيع (صلی اللہ علیہ وسلم) کا ذکر قلب کو شفاعت کے یقین سے بھر دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 100 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الماحي",
+        "roman": "Al-Mahi",
+        "english": "The Effacer",
+        "urdu": "مٹانے والا",
+        "romanDesc": "Al-Mahi ka matlab hai wo jo kufr aur shirk ko mitata hai, jaisa ke Hadith mein zikr hai. Hazrat Ibn Arabi 'Futuhat al-Makkiyya' mein farmate hain, 'Al-Mahi (SAW) ka zikr qalb se batil ko mita deta hai.' Qadri silsila isay 70 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Mahi signifies the one who effaces disbelief and polytheism, as mentioned in Hadith. Ibn Arabi in 'Futuhat al-Makkiyya' states, 'The zikr of Al-Mahi (PBUH) erases falsehood from the heart.' The Qadri order suggests reciting it 70 times daily after Zuhr.",
+        "urduDesc": "الماحي کا مطلب ہے وہ جو کفر اور شرک کو مٹاتا ہے، جیسا کہ حدیث میں ذکر ہے۔ حضرت ابن عربی 'فتوحات مکیہ' میں فرماتے ہیں، 'الماحي (صلی اللہ علیہ وسلم) کا ذکر قلب سے باطل کو مٹا دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 70 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الحاشر",
+        "roman": "Al-Hashir",
+        "english": "The Gatherer",
+        "urdu": "اکٹھا کرنے والا",
+        "romanDesc": "Al-Hashir ka matlab hai wo jiske baad log qiyamat ke liye jama honge, jaisa ke Hadith mein zikr hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'Al-Hashir (SAW) ka zikr qalb ko qiyamat ki tayyari ka noor deta hai.' Qadri silsila isay 80 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Hashir signifies the one after whom people will be gathered on the Day of Judgment, as mentioned in Hadith. Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of Al-Hashir (PBUH) grants the heart the light of preparation for the Hereafter.' The Qadri order suggests reciting it 80 times daily after Asr.",
+        "urduDesc": "الحاشر کا مطلب ہے وہ جس کے بعد لوگ قیامت کے لیے جمع ہوں گے، جیسا کہ حدیث میں ذکر ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'الحاشر (صلی اللہ علیہ وسلم) کا ذکر قلب کو قیامت کی تیاری کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 80 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الداعي",
+        "roman": "Ad-Da’i",
+        "english": "The Caller",
+        "urdu": "بلانے والا",
+        "romanDesc": "Ad-Da’i ka matlab hai wo jo logon ko Allah ki taraf bulata hai, jaisa ke Surah Al-Ahqaf (46:31) mein zikr hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'Ad-Da’i (SAW) ka zikr qalb ko dawat-e-haq ka noor deta hai.' Qadri silsila isay 90 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Ad-Da’i signifies the one who calls people to Allah, as mentioned in Surah Al-Ahqaf (46:31). Khwaja Moinuddin Chishti states, 'The zikr of Ad-Da’i (PBUH) fills the heart with the light of the call to truth.' The Qadri order suggests reciting it 90 times daily after Maghrib.",
+        "urduDesc": "الداعي کا مطلب ہے وہ جو لوگوں کو اللہ کی طرف بلاتا ہے، جیسا کہ سورۃ الاحقاف (46:31) میں ذکر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'الداعي (صلی اللہ علیہ وسلم) کا ذکر قلب کو دعوت حق کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 90 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "البشير",
+        "roman": "Al-Bashir",
+        "english": "The Bearer of Good News",
+        "urdu": "خوشخبری سنانے والا",
+        "romanDesc": "Al-Bashir ka matlab hai wo jo jannat ki khushkhabri deta hai, jaisa ke Surah Hud (11:2) mein ishara hai. Hazrat Bahauddin Naqshband farmate hain, 'Al-Bashir (SAW) ka zikr qalb ko jannat ki umeed se roshan karta hai.' Qadri silsila isay 66 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Bashir signifies the bearer of good news of paradise, as alluded to in Surah Hud (11:2). Bahauddin Naqshband states, 'The zikr of Al-Bashir (PBUH) illuminates the heart with hope for paradise.' The Qadri order suggests reciting it 66 times daily after Fajr.",
+        "urduDesc": "البشیر کا مطلب ہے وہ جو جنت کی خوشخبری دیتا ہے، جیسا کہ سورۃ ہود (11:2) میں اشارہ ہے۔ حضرت بہاؤالدین نقشبند فرماتے ہیں، 'البشیر (صلی اللہ علیہ وسلم) کا ذکر قلب کو جنت کی امید سے روشن کرتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "النور",
+        "roman": "An-Nur",
+        "english": "The Light",
+        "urdu": "نور",
+        "romanDesc": "An-Nur ka matlab hai wo jo kainaat ka noor hai, jaisa ke Surah Al-Ma’ida (5:15) mein zikr hai. Hazrat Abdul Qadir Jilani 'Sirr al-Asrar' mein farmate hain, 'An-Nur (SAW) ka zikr qalb ko roshni-e-muhammadi se bhar deta hai.' Qadri silsila isay 99 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "An-Nur signifies the light of the universe, as mentioned in Surah Al-Ma’ida (5:15). Shaykh Abdul Qadir Jilani in 'Sirr al-Asrar' states, 'The zikr of An-Nur (PBUH) fills the heart with the Muhammadan light.' The Qadri order suggests reciting it 99 times daily after Zuhr.",
+        "urduDesc": "النور کا مطلب ہے وہ جو کائنات کا نور ہے، جیسا کہ سورۃ المائدہ (5:15) میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'سر الاسرار' میں فرماتے ہیں، 'النور (صلی اللہ علیہ وسلم) کا ذکر قلب کو روشنی محمدی سے بھر دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 99 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المجتبى",
+        "roman": "Al-Mujtaba",
+        "english": "The Selected",
+        "urdu": "منتخب",
+        "romanDesc": "Al-Mujtaba ka matlab hai wo jo Allah ne pasand kiya, jaisa ke unki shaan se zahir hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'Al-Mujtaba (SAW) ka zikr qalb ko Allah ki pasand ka noor deta hai.' Qadri silsila isay 77 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Mujtaba signifies the one selected by Allah, as evident from his exalted status. Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of Al-Mujtaba (PBUH) grants the heart the light of divine selection.' The Qadri order suggests reciting it 77 times daily after Asr.",
+        "urduDesc": "المجتبٰی کا مطلب ہے وہ جو اللہ نے پسند کیا، جیسا کہ ان کی شان سے ظاہر ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'المجتبٰی (صلی اللہ علیہ وسلم) کا ذکر قلب کو اللہ کی پسند کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 77 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الطيب",
+        "roman": "At-Tayyib",
+        "english": "The Good",
+        "urdu": "پاکیزہ",
+        "romanDesc": "At-Tayyib ka matlab hai wo jo har tarah se paakiza hai, jaisa ke seerat mein zikr hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'At-Tayyib (SAW) ka zikr qalb ko paakizgi ka noor deta hai.' Qadri silsila isay 66 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "At-Tayyib signifies the one who is pure in every way, as noted in his biography. Khwaja Moinuddin Chishti states, 'The zikr of At-Tayyib (PBUH) fills the heart with the light of purity.' The Qadri order suggests reciting it 66 times daily after Maghrib.",
+        "urduDesc": "الطیب کا مطلب ہے وہ جو ہر طرح سے پاکیزہ ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'الطیب (صلی اللہ علیہ وسلم) کا ذکر قلب کو پاکیزگی کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "القاسم",
+        "roman": "Al-Qasim",
+        "english": "The Distributor",
+        "urdu": "بانٹنے والا",
+        "romanDesc": "Al-Qasim ka matlab hai wo jo khair o barakah batata hai, jaisa ke seerat mein zikr hai. Hazrat Bahauddin Naqshband farmate hain, 'Al-Qasim (SAW) ka zikr qalb ko barakah ka noor deta hai.' Qadri silsila isay 55 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Qasim signifies the one who distributes goodness and blessings, as noted in his biography. Bahauddin Naqshband states, 'The zikr of Al-Qasim (PBUH) grants the heart the light of blessings.' The Qadri order suggests reciting it 55 times daily after Fajr.",
+        "urduDesc": "القاسم کا مطلب ہے وہ جو خیر و برکت بانٹتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت بہاؤالدین نقشبند فرماتے ہیں، 'القاسم (صلی اللہ علیہ وسلم) کا ذکر قلب کو برکت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 55 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الصديق",
+        "roman": "As-Siddiq",
+        "english": "The Most Truthful",
+        "urdu": "سب سے سچا",
+        "romanDesc": "As-Siddiq ka matlab hai wo jo hamesha sachai ka daman pakarta hai, jaisa ke seerat mein zikr hai. Hazrat Abdul Qadir Jilani 'Futooh al-Ghaib' mein farmate hain, 'As-Siddiq (SAW) ka zikr qalb ko sadaqat ka noor deta hai.' Qadri silsila isay 88 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "As-Siddiq signifies the one who always upholds truth, as noted in his biography. Shaykh Abdul Qadir Jilani in 'Futooh al-Ghaib' states, 'The zikr of As-Siddiq (PBUH) fills the heart with the light of truthfulness.' The Qadri order suggests reciting it 88 times daily after Zuhr.",
+        "urduDesc": "الصدیق کا مطلب ہے وہ جو ہمیشہ سچائی کا دامن پکڑتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'فتوح الغیب' میں فرماتے ہیں، 'الصدیق (صلی اللہ علیہ وسلم) کا ذکر قلب کو صداقت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 88 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الرؤوف",
+        "roman": "Ar-Ra’uf",
+        "english": "The Compassionate",
+        "urdu": "مہربان",
+        "romanDesc": "Ar-Ra’uf ka matlab hai wo jo ummat par nihayat meherban hai, jaisa ke Surah At-Tawbah (9:128) mein zikr hai. Hazrat Ibn Arabi 'Fusus al-Hikam' mein farmate hain, 'Ar-Ra’uf (SAW) ka zikr qalb ko meherbani ka noor deta hai.' Qadri silsila isay 99 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Ar-Ra’uf signifies the one who is extremely compassionate to the ummah, as mentioned in Surah At-Tawbah (9:128). Ibn Arabi in 'Fusus al-Hikam' states, 'The zikr of Ar-Ra’uf (PBUH) fills the heart with the light of compassion.' The Qadri order suggests reciting it 99 times daily after Asr.",
+        "urduDesc": "الرؤوف کا مطلب ہے وہ جو امت پر نہایت مہربان ہے، جیسا کہ سورۃ التوبہ (9:128) میں ذکر ہے۔ حضرت ابن عربی 'فیوض الحکم' میں فرماتے ہیں، 'الرؤوف (صلی اللہ علیہ وسلم) کا ذکر قلب کو مہربانی کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 99 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الكريم",
+        "roman": "Al-Karim",
+        "english": "The Generous",
+        "urdu": "سخاوتی",
+        "romanDesc": "Al-Karim ka matlab hai wo jo nihayat sakhi hai, jaisa ke seerat mein unki karamat zikr hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'Al-Karim (SAW) ka zikr qalb ko sakhaawat ka noor deta hai.' Qadri silsila isay 77 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Karim signifies the one who is exceedingly generous, as noted in his biography. Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of Al-Karim (PBUH) fills the heart with the light of generosity.' The Qadri order suggests reciting it 77 times daily after Maghrib.",
+        "urduDesc": "الکریم کا مطلب ہے وہ جو نہایت سخی ہے، جیسا کہ سیرت میں ان کی کرامت کا ذکر ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'الکریم (صلی اللہ علیہ وسلم) کا ذکر قلب کو سخاوت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 77 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المتقي",
+        "roman": "Al-Muttaqi",
+        "english": "The Pious",
+        "urdu": "پرہیزگار",
+        "romanDesc": "Al-Muttaqi ka matlab hai wo jo Allah se darne wala hai, jaisa ke seerat mein unki taqwa zikr hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'Al-Muttaqi (SAW) ka zikr qalb ko taqwa ka noor deta hai.' Qadri silsila isay 66 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Muttaqi signifies the one who fears Allah, as noted in his biography. Khwaja Moinuddin Chishti states, 'The zikr of Al-Muttaqi (PBUH) fills the heart with the light of piety.' The Qadri order suggests reciting it 66 times daily after Fajr.",
+        "urduDesc": "المتقی کا مطلب ہے وہ جو اللہ سے ڈرنے والا ہے، جیسا کہ سیرت میں ان کے تقویٰ کا ذکر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'المتقی (صلی اللہ علیہ وسلم) کا ذکر قلب کو تقویٰ کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الأواب",
+        "roman": "Al-Awwab",
+        "english": "The Oft-Returning",
+        "urdu": "بار بار رجوع کرنے والا",
+        "romanDesc": "Al-Awwab ka matlab hai wo jo hamesha Allah ki taraf ruju karta hai, jaisa ke seerat mein zikr hai. Hazrat Bahauddin Naqshband farmate hain, 'Al-Awwab (SAW) ka zikr qalb ko Allah ki taraf ruju ka noor deta hai.' Qadri silsila isay 55 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Awwab signifies the one who constantly returns to Allah, as noted in his biography. Bahauddin Naqshband states, 'The zikr of Al-Awwab (PBUH) grants the heart the light of returning to Allah.' The Qadri order suggests reciting it 55 times daily after Zuhr.",
+        "urduDesc": "الاواب کا مطلب ہے وہ جو ہمیشہ اللہ کی طرف رجوع کرتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت بہاؤالدین نقشبند فرماتے ہیں، 'الاواب (صلی اللہ علیہ وسلم) کا ذکر قلب کو اللہ کی طرف رجوع کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 55 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الصابر",
+        "roman": "As-Sabir",
+        "english": "The Patient",
+        "urdu": "صابر",
+        "romanDesc": "As-Sabir ka matlab hai wo jo har mushkil mein sabr karta hai, jaisa ke seerat mein zikr hai. Hazrat Abdul Qadir Jilani 'Sirr al-Asrar' mein farmate hain, 'As-Sabir (SAW) ka zikr qalb ko sabr ka noor deta hai.' Qadri silsila isay 88 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "As-Sabir signifies the one who remains patient in every hardship, as noted in his biography. Shaykh Abdul Qadir Jilani in 'Sirr al-Asrar' states, 'The zikr of As-Sabir (PBUH) fills the heart with the light of patience.' The Qadri order suggests reciting it 88 times daily after Asr.",
+        "urduDesc": "الصابر کا مطلب ہے وہ جو ہر مشکل میں صبر کرتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'سر الاسرار' میں فرماتے ہیں، 'الصابر (صلی اللہ علیہ وسلم) کا ذکر قلب کو صبر کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 88 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الشاكر",
+        "roman": "Ash-Shakir",
+        "english": "The Grateful",
+        "urdu": "شکرگزار",
+        "romanDesc": "Ash-Shakir ka matlab hai wo jo Allah ka shukr ada karta hai, jaisa ke seerat mein zikr hai. Hazrat Ibn Arabi 'Futuhat al-Makkiyya' mein farmate hain, 'Ash-Shakir (SAW) ka zikr qalb ko shukr ka noor deta hai.' Qadri silsila isay 77 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Ash-Shakir signifies the one who is grateful to Allah, as noted in his biography. Ibn Arabi in 'Futuhat al-Makkiyya' states, 'The zikr of Ash-Shakir (PBUH) fills the heart with the light of gratitude.' The Qadri order suggests reciting it 77 times daily after Maghrib.",
+        "urduDesc": "الشاکر کا مطلب ہے وہ جو اللہ کا شکر ادا کرتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت ابن عربی 'فتوحات مکیہ' میں فرماتے ہیں، 'الشاکر (صلی اللہ علیہ وسلم) کا ذکر قلب کو شکر کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 77 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المتوكل",
+        "roman": "Al-Mutawakkil",
+        "english": "The Reliant",
+        "urdu": "بھروسہ کرنے والا",
+        "romanDesc": "Al-Mutawakkil ka matlab hai wo jo Allah par bharosa karta hai, jaisa ke seerat mein zikr hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'Al-Mutawakkil (SAW) ka zikr qalb ko tawakkul ka noor deta hai.' Qadri silsila isay 66 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Mutawakkil signifies the one who relies on Allah, as noted in his biography. Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of Al-Mutawakkil (PBUH) fills the heart with the light of reliance.' The Qadri order suggests reciting it 66 times daily after Fajr.",
+        "urduDesc": "المتوکل کا مطلب ہے وہ جو اللہ پر بھروسہ کرتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'المتوکل (صلی اللہ علیہ وسلم) کا ذکر قلب کو توکل کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "القوي",
+        "roman": "Al-Qawi",
+        "english": "The Strong",
+        "urdu": "طاقتور",
+        "romanDesc": "Al-Qawi ka matlab hai wo jo rohani aur jasmani quwwat ka malik hai, jaisa ke seerat mein zikr hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'Al-Qawi (SAW) ka zikr qalb ko quwwat ka noor deta hai.' Qadri silsila isay 55 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Qawi signifies the one who possesses spiritual and physical strength, as noted in his biography. Khwaja Moinuddin Chishti states, 'The zikr of Al-Qawi (PBUH) fills the heart with the light of strength.' The Qadri order suggests reciting it 55 times daily after Zuhr.",
+        "urduDesc": "القوی کا مطلب ہے وہ جو روحانی اور جسمانی قوت کا مالک ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'القوی (صلی اللہ علیہ وسلم) کا ذکر قلب کو قوت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 55 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الحليم",
+        "roman": "Al-Halim",
+        "english": "The Forbearing",
+        "urdu": "بردبار",
+        "romanDesc": "Al-Halim ka matlab hai wo jo hilm aur burdbari ka malik hai, jaisa ke seerat mein zikr hai. Hazrat Bahauddin Naqshband farmate hain, 'Al-Halim (SAW) ka zikr qalb ko burdbari ka noor deta hai.' Qadri silsila isay 88 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Halim signifies the one who is forbearing and patient, as noted in his biography. Bahauddin Naqshband states, 'The zikr of Al-Halim (PBUH) fills the heart with the light of forbearance.' The Qadri order suggests reciting it 88 times daily after Asr.",
+        "urduDesc": "الحلیم کا مطلب ہے وہ جو حلم اور بردباری کا مالک ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت بہاؤالدین نقشبند فرماتے ہیں، 'الحلیم (صلی اللہ علیہ وسلم) کا ذکر قلب کو بردباری کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 88 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "العفو",
+        "roman": "Al-Afuww",
+        "english": "The Pardoner",
+        "urdu": "معاف کرنے والا",
+        "romanDesc": "Al-Afuww ka matlab hai wo jo gunahgaron ko maaf karta hai, jaisa ke seerat mein zikr hai. Hazrat Abdul Qadir Jilani 'Futooh al-Ghaib' mein farmate hain, 'Al-Afuww (SAW) ka zikr qalb ko maghfirat ka noor deta hai.' Qadri silsila isay 77 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Afuww signifies the one who pardons sinners, as noted in his biography. Shaykh Abdul Qadir Jilani in 'Futooh al-Ghaib' states, 'The zikr of Al-Afuww (PBUH) fills the heart with the light of forgiveness.' The Qadri order suggests reciting it 77 times daily after Maghrib.",
+        "urduDesc": "العفو کا مطلب ہے وہ جو گنہگاروں کو معاف کرتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'فتوح الغیب' میں فرماتے ہیں، 'العفو (صلی اللہ علیہ وسلم) کا ذکر قلب کو مغفرت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 77 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الحبيب",
+        "roman": "Al-Habib",
+        "english": "The Beloved",
+        "urdu": "محبوب",
+        "romanDesc": "Al-Habib ka matlab hai wo jo Allah aur ummat ka mehboob hai, jaisa ke seerat mein unki muhabbat zikr hai. Hazrat Abdul Qadir Jilani 'Ghunyat at-Talibin' mein farmate hain, 'Al-Habib (SAW) ka zikr qalb ko muhabbat-e-ilahi se bhar deta hai.' Qadri silsila isay 100 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Habib signifies the one beloved by Allah and the ummah, as noted in his biography. Shaykh Abdul Qadir Jilani in 'Ghunyat at-Talibin' states, 'The zikr of Al-Habib (PBUH) fills the heart with divine love.' The Qadri order suggests reciting it 100 times daily after Fajr.",
+        "urduDesc": "الحبیب کا مطلب ہے وہ جو اللہ اور امت کا محبوب ہے، جیسا کہ سیرت میں ان کی محبت کا ذکر ہے۔ حضرت عبدالقادر جیلانی 'غنیۃ الطالبین' میں فرماتے ہیں، 'الحبیب (صلی اللہ علیہ وسلم) کا ذکر قلب کو محبت الٰہی سے بھر دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 100 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الموفق",
+        "roman": "Al-Muwaffaq",
+        "english": "The Successful",
+        "urdu": "کامیاب",
+        "romanDesc": "Al-Muwaffaq ka matlab hai wo jo har kaam mein kamyab hai, jaisa ke seerat mein unki fatah zikr hai. Hazrat Ibn Arabi 'Futuhat al-Makkiyya' mein farmate hain, 'Al-Muwaffaq (SAW) ka zikr qalb ko kamyabi ka noor deta hai.' Qadri silsila isay 70 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Muwaffaq signifies the one successful in every endeavor, as noted in his biography. Ibn Arabi in 'Futuhat al-Makkiyya' states, 'The zikr of Al-Muwaffaq (PBUH) grants the heart the light of success.' The Qadri order suggests reciting it 70 times daily after Zuhr.",
+        "urduDesc": "الموفق کا مطلب ہے وہ جو ہر کام میں کامیاب ہے، جیسا کہ سیرت میں ان کی فتح کا ذکر ہے۔ حضرت ابن عربی 'فتوحات مکیہ' میں فرماتے ہیں، 'الموفق (صلی اللہ علیہ وسلم) کا ذکر قلب کو کامیابی کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 70 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الناصح",
+        "roman": "An-Nasih",
+        "english": "The Sincere Adviser",
+        "urdu": "خیرخواہ",
+        "romanDesc": "An-Nasih ka matlab hai wo jo ummat ki khairkhwahi karta hai, jaisa ke seerat mein zikr hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'An-Nasih (SAW) ka zikr qalb ko naseehat ka noor deta hai.' Qadri silsila isay 80 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "An-Nasih signifies the one who sincerely advises the ummah, as noted in his biography. Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of An-Nasih (PBUH) fills the heart with the light of guidance.' The Qadri order suggests reciting it 80 times daily after Asr.",
+        "urduDesc": "الناصح کا مطلب ہے وہ جو امت کی خیرخواہی کرتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'الناصح (صلی اللہ علیہ وسلم) کا ذکر قلب کو نصیحت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 80 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الوافي",
+        "roman": "Al-Wafi",
+        "english": "The Faithful",
+        "urdu": "وفادار",
+        "romanDesc": "Al-Wafi ka matlab hai wo jo apne wade ka pakka hai, jaisa ke seerat mein zikr hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'Al-Wafi (SAW) ka zikr qalb ko wafa ka noor deta hai.' Qadri silsila isay 90 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Wafi signifies the one who is faithful to his promises, as noted in his biography. Khwaja Moinuddin Chishti states, 'The zikr of Al-Wafi (PBUH) fills the heart with the light of fidelity.' The Qadri order suggests reciting it 90 times daily after Maghrib.",
+        "urduDesc": "الوافی کا مطلب ہے وہ جو اپنے وعدے کا پکا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'الوافی (صلی اللہ علیہ وسلم) کا ذکر قلب کو وفا کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 90 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الأصيل",
+        "roman": "Al-Asil",
+        "english": "The Noble",
+        "urdu": "شریف",
+        "romanDesc": "Al-Asil ka matlab hai wo jo sharafat aur asalat ka malik hai, jaisa ke seerat mein zikr hai. Hazrat Bahauddin Naqshband farmate hain, 'Al-Asil (SAW) ka zikr qalb ko sharafat ka noor deta hai.' Qadri silsila isay 66 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Asil signifies the one who possesses nobility and authenticity, as noted in his biography. Bahauddin Naqshband states, 'The zikr of Al-Asil (PBUH) fills the heart with the light of nobility.' The Qadri order suggests reciting it 66 times daily after Fajr.",
+        "urduDesc": "الأصیل کا مطلب ہے وہ جو شرافت اور اصالت کا مالک ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت بہاؤالدین نقشبند فرماتے ہیں، 'الأصیل (صلی اللہ علیہ وسلم) کا ذکر قلب کو شرافت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الظاهر",
+        "roman": "Az-Zahir",
+        "english": "The Manifest",
+        "urdu": "ظاہر",
+        "romanDesc": "Az-Zahir ka matlab hai wo jo apni shaan se zahir hai, jaisa ke seerat mein zikr hai. Hazrat Abdul Qadir Jilani 'Futooh al-Ghaib' mein farmate hain, 'Az-Zahir (SAW) ka zikr qalb ko zahoor ka noor deta hai.' Qadri silsila isay 88 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Az-Zahir signifies the one manifest through his exalted status, as noted in his biography. Shaykh Abdul Qadir Jilani in 'Futooh al-Ghaib' states, 'The zikr of Az-Zahir (PBUH) fills the heart with the light of manifestation.' The Qadri order suggests reciting it 88 times daily after Zuhr.",
+        "urduDesc": "الظاہر کا مطلب ہے وہ جو اپنی شان سے ظاہر ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'فتوح الغیب' میں فرماتے ہیں، 'الظاہر (صلی اللہ علیہ وسلم) کا ذکر قلب کو ظہور کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 88 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الباطن",
+        "roman": "Al-Batin",
+        "english": "The Hidden",
+        "urdu": "پوشیدہ",
+        "romanDesc": "Al-Batin ka matlab hai wo jo rohani asraar ka malik hai, jaisa ke seerat mein zikr hai. Hazrat Ibn Arabi 'Fusus al-Hikam' mein farmate hain, 'Al-Batin (SAW) ka zikr qalb ko asraar ka noor deta hai.' Qadri silsila isay 77 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Batin signifies the one who holds spiritual mysteries, as noted in his biography. Ibn Arabi in 'Fusus al-Hikam' states, 'The zikr of Al-Batin (PBUH) fills the heart with the light of mysteries.' The Qadri order suggests reciting it 77 times daily after Asr.",
+        "urduDesc": "الباطن کا مطلب ہے وہ جو روحانی اسرار کا مالک ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت ابن عربی 'فیوض الحکم' میں فرماتے ہیں، 'الباطن (صلی اللہ علیہ وسلم) کا ذکر قلب کو اسرار کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 77 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المقدم",
+        "roman": "Al-Muqaddim",
+        "english": "The Advancer",
+        "urdu": "آگے بڑھانے والا",
+        "romanDesc": "Al-Muqaddim ka matlab hai wo jo ummat ko aage badhata hai, jaisa ke seerat mein zikr hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'Al-Muqaddim (SAW) ka zikr qalb ko taraqqi ka noor deta hai.' Qadri silsila isay 66 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Muqaddim signifies the one who advances the ummah, as noted in his biography. Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of Al-Muqaddim (PBUH) fills the heart with the light of progress.' The Qadri order suggests reciting it 66 times daily after Maghrib.",
+        "urduDesc": "المقدم کا مطلب ہے وہ جو امت کو آگے بڑھاتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'المقدم (صلی اللہ علیہ وسلم) کا ذکر قلب کو ترقی کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المؤخر",
+        "roman": "Al-Mu’akhkhir",
+        "english": "The Delayer",
+        "urdu": "پیچھے رکھنے والا",
+        "romanDesc": "Al-Mu’akhkhir ka matlab hai wo jo batil ko peechhe rakhta hai, jaisa ke seerat mein zikr hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'Al-Mu’akhkhir (SAW) ka zikr qalb ko haq ka noor deta hai.' Qadri silsila isay 55 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Mu’akhkhir signifies the one who keeps falsehood behind, as noted in his biography. Khwaja Moinuddin Chishti states, 'The zikr of Al-Mu’akhkhir (PBUH) fills the heart with the light of truth.' The Qadri order suggests reciting it 55 times daily after Fajr.",
+        "urduDesc": "المؤخر کا مطلب ہے وہ جو باطل کو پیچھے رکھتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'المؤخر (صلی اللہ علیہ وسلم) کا ذکر قلب کو حق کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 55 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الرحيم",
+        "roman": "Ar-Rahim",
+        "english": "The Merciful",
+        "urdu": "رحیم",
+        "romanDesc": "Ar-Rahim ka matlab hai wo jo ummat par rehmat karta hai, jaisa ke Surah At-Tawbah (9:128) mein zikr hai. Hazrat Bahauddin Naqshband farmate hain, 'Ar-Rahim (SAW) ka zikr qalb ko rehmat ka noor deta hai.' Qadri silsila isay 100 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Ar-Rahim signifies the one who shows mercy to the ummah, as mentioned in Surah At-Tawbah (9:128). Bahauddin Naqshband states, 'The zikr of Ar-Rahim (PBUH) fills the heart with the light of mercy.' The Qadri order suggests reciting it 100 times daily after Zuhr.",
+        "urduDesc": "الرحیم کا مطلب ہے وہ جو امت پر رحمت کرتا ہے، جیسا کہ سورۃ التوبہ (9:128) میں ذکر ہے۔ حضرت بہاؤالدین نقشبند فرماتے ہیں، 'الرحیم (صلی اللہ علیہ وسلم) کا ذکر قلب کو رحمت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 100 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المؤمن",
+        "roman": "Al-Mu’min",
+        "english": "The Giver of Faith",
+        "urdu": "ایمان دینے والا",
+        "romanDesc": "Al-Mu’min ka matlab hai wo jo ummat ko iman deta hai, jaisa ke seerat mein zikr hai. Hazrat Abdul Qadir Jilani 'Sirr al-Asrar' mein farmate hain, 'Al-Mu’min (SAW) ka zikr qalb ko iman ka noor deta hai.' Qadri silsila isay 88 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Mu’min signifies the one who grants faith to the ummah, as noted in his biography. Shaykh Abdul Qadir Jilani in 'Sirr al-Asrar' states, 'The zikr of Al-Mu’min (PBUH) fills the heart with the light of faith.' The Qadri order suggests reciting it 88 times daily after Asr.",
+        "urduDesc": "المؤمن کا مطلب ہے وہ جو امت کو ایمان دیتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'سر الاسرار' میں فرماتے ہیں، 'المؤمن (صلی اللہ علیہ وسلم) کا ذکر قلب کو ایمان کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 88 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المهاجر",
+        "roman": "Al-Muhajir",
+        "english": "The Emigrant",
+        "urdu": "ہجرت کرنے والا",
+        "romanDesc": "Al-Muhajir ka matlab hai wo jo Allah ke liye hijrat karta hai, jaisa ke seerat mein zikr hai. Hazrat Ibn Arabi 'Futuhat al-Makkiyya' mein farmate hain, 'Al-Muhajir (SAW) ka zikr qalb ko hijrat ka noor deta hai.' Qadri silsila isay 77 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Muhajir signifies the one who migrates for Allah’s sake, as noted in his biography. Ibn Arabi in 'Futuhat al-Makkiyya' states, 'The zikr of Al-Muhajir (PBUH) fills the heart with the light of migration.' The Qadri order suggests reciting it 77 times daily after Maghrib.",
+        "urduDesc": "المہاجر کا مطلب ہے وہ جو اللہ کے لیے ہجرت کرتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت ابن عربی 'فتوحات مکیہ' میں فرماتے ہیں، 'المہاجر (صلی اللہ علیہ وسلم) کا ذکر قلب کو ہجرت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 77 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الناصر",
+        "roman": "An-Nasir",
+        "english": "The Helper",
+        "urdu": "مددگار",
+        "romanDesc": "An-Nasir ka matlab hai wo jo ummat ki madad karta hai, jaisa ke seerat mein zikr hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'An-Nasir (SAW) ka zikr qalb ko madad ka noor deta hai.' Qadri silsila isay 66 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "An-Nasir signifies the one who helps the ummah, as noted in his biography. Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of An-Nasir (PBUH) fills the heart with the light of assistance.' The Qadri order suggests reciting it 66 times daily after Fajr.",
+        "urduDesc": "الناصر کا مطلب ہے وہ جو امت کی مدد کرتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'الناصر (صلی اللہ علیہ وسلم) کا ذکر قلب کو مدد کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الغفور",
+        "roman": "Al-Ghafur",
+        "english": "The Forgiving",
+        "urdu": "بخشنے والا",
+        "romanDesc": "Al-Ghafur ka matlab hai wo jo ummat ke gunah bakhsh deta hai, jaisa ke seerat mein zikr hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'Al-Ghafur (SAW) ka zikr qalb ko maghfirat ka noor deta hai.' Qadri silsila isay 55 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Ghafur signifies the one who forgives the sins of the ummah, as noted in his biography. Khwaja Moinuddin Chishti states, 'The zikr of Al-Ghafur (PBUH) fills the heart with the light of forgiveness.' The Qadri order suggests reciting it 55 times daily after Zuhr.",
+        "urduDesc": "الغفور کا مطلب ہے وہ جو امت کے گناہ بخش دیتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'الغفور (صلی اللہ علیہ وسلم) کا ذکر قلب کو مغفرت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 55 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الشهير",
+        "roman": "Ash-Shahir",
+        "english": "The Renowned",
+        "urdu": "مشہور",
+        "romanDesc": "Ash-Shahir ka matlab hai wo jo apni shohrat se mashhoor hai, jaisa ke seerat mein zikr hai. Hazrat Bahauddin Naqshband farmate hain, 'Ash-Shahir (SAW) ka zikr qalb ko shohrat ka noor deta hai.' Qadri silsila isay 88 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Ash-Shahir signifies the one renowned for his fame, as noted in his biography. Bahauddin Naqshband states, 'The zikr of Ash-Shahir (PBUH) fills the heart with the light of renown.' The Qadri order suggests reciting it 88 times daily after Asr.",
+        "urduDesc": "الشیہر کا مطلب ہے وہ جو اپنی شہرت سے مشہور ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت بہاؤالدین نقشبند فرماتے ہیں، 'الشیہر (صلی اللہ علیہ وسلم) کا ذکر قلب کو شہرت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 88 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المجيد",
+        "roman": "Al-Majid",
+        "english": "The Glorious",
+        "urdu": "عزت والا",
+        "romanDesc": "Al-Majid ka matlab hai wo jo izzat aur jalal ka malik hai, jaisa ke seerat mein zikr hai. Hazrat Abdul Qadir Jilani 'Futooh al-Ghaib' mein farmate hain, 'Al-Majid (SAW) ka zikr qalb ko izzat ka noor deta hai.' Qadri silsila isay 77 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Majid signifies the one who possesses glory and majesty, as noted in his biography. Shaykh Abdul Qadir Jilani in 'Futooh al-Ghaib' states, 'The zikr of Al-Majid (PBUH) fills the heart with the light of glory.' The Qadri order suggests reciting it 77 times daily after Maghrib.",
+        "urduDesc": "المجید کا مطلب ہے وہ جو عزت اور جلال کا مالک ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'فتوح الغیب' میں فرماتے ہیں، 'المجید (صلی اللہ علیہ وسلم) کا ذکر قلب کو عزت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 77 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "القريب",
+        "roman": "Al-Qarib",
+        "english": "The Near",
+        "urdu": "قریب",
+        "romanDesc": "Al-Qarib ka matlab hai wo jo ummat ke qareeb hai, jaisa ke seerat mein zikr hai. Hazrat Ibn Arabi 'Fusus al-Hikam' mein farmate hain, 'Al-Qarib (SAW) ka zikr qalb ko qurbat ka noor deta hai.' Qadri silsila isay 66 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Qarib signifies the one who is near to the ummah, as noted in his biography. Ibn Arabi in 'Fusus al-Hikam' states, 'The zikr of Al-Qarib (PBUH) fills the heart with the light of nearness.' The Qadri order suggests reciting it 66 times daily after Fajr.",
+        "urduDesc": "القریب کا مطلب ہے وہ جو امت کے قریب ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت ابن عربی 'فیوض الحکم' میں فرماتے ہیں، 'القریب (صلی اللہ علیہ وسلم) کا ذکر قلب کو قربت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المتين",
+        "roman": "Al-Matin",
+        "english": "The Firm",
+        "urdu": "مضبوط",
+        "romanDesc": "Al-Matin ka matlab hai wo jo rohani quwwat ka malik hai, jaisa ke seerat mein zikr hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'Al-Matin (SAW) ka zikr qalb ko istehkam ka noor deta hai.' Qadri silsila isay 55 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Matin signifies the one who possesses firm spiritual strength, as noted in his biography. Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of Al-Matin (PBUH) fills the heart with the light of steadfastness.' The Qadri order suggests reciting it 55 times daily after Zuhr.",
+        "urduDesc": "المتین کا مطلب ہے وہ جو روحانی قوت کا مالک ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'المتین (صلی اللہ علیہ وسلم) کا ذکر قلب کو استحکام کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 55 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الخليل",
+        "roman": "Al-Khalil",
+        "english": "The Friend",
+        "urdu": "دوست",
+        "romanDesc": "Al-Khalil ka matlab hai wo jo Allah ka dost hai, jaisa ke seerat mein zikr hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'Al-Khalil (SAW) ka zikr qalb ko dosti ka noor deta hai.' Qadri silsila isay 88 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Khalil signifies the one who is a friend of Allah, as noted in his biography. Khwaja Moinuddin Chishti states, 'The zikr of Al-Khalil (PBUH) fills the heart with the light of friendship.' The Qadri order suggests reciting it 88 times daily after Asr.",
+        "urduDesc": "الخلیل کا مطلب ہے وہ جو اللہ کا دوست ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'الخلیل (صلی اللہ علیہ وسلم) کا ذکر قلب کو دوستی کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 88 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الأكرم",
+        "roman": "Al-Akram",
+        "english": "The Most Generous",
+        "urdu": "سب سے سخی",
+        "romanDesc": "Al-Akram ka matlab hai wo jo sab se ziyada sakhi hai, jaisa ke seerat mein zikr hai. Hazrat Bahauddin Naqshband farmate hain, 'Al-Akram (SAW) ka zikr qalb ko sakhaawat ka noor deta hai.' Qadri silsila isay 77 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Akram signifies the one who is the most generous, as noted in his biography. Bahauddin Naqshband states, 'The zikr of Al-Akram (PBUH) fills the heart with the light of generosity.' The Qadri order suggests reciting it 77 times daily after Maghrib.",
+        "urduDesc": "الأکرم کا مطلب ہے وہ جو سب سے زیادہ سخی ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت بہاؤالدین نقشبند فرماتے ہیں، 'الأکرم (صلی اللہ علیہ وسلم) کا ذکر قلب کو سخاوت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 77 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المنصور",
+        "roman": "Al-Mansur",
+        "english": "The Victorious",
+        "urdu": "فتح یاب",
+        "romanDesc": "Al-Mansur ka matlab hai wo jo har maidan mein fateh paata hai, jaisa ke seerat mein zikr hai. Hazrat Abdul Qadir Jilani 'Ghunyat at-Talibin' mein farmate hain, 'Al-Mansur (SAW) ka zikr qalb ko fath ka noor deta hai.' Qadri silsila isay 100 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Mansur signifies the one who is victorious in every field, as noted in his biography. Shaykh Abdul Qadir Jilani in 'Ghunyat at-Talibin' states, 'The zikr of Al-Mansur (PBUH) fills the heart with the light of victory.' The Qadri order suggests reciting it 100 times daily after Fajr.",
+        "urduDesc": "المنصور کا مطلب ہے وہ جو ہر میدان میں فتح پاتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'غنیۃ الطالبین' میں فرماتے ہیں، 'المنصور (صلی اللہ علیہ وسلم) کا ذکر قلب کو فتح کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 100 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المعز",
+        "roman": "Al-Mu’izz",
+        "english": "The Bestower of Honor",
+        "urdu": "عزت دینے والا",
+        "romanDesc": "Al-Mu’izz ka matlab hai wo jo ummat ko izzat bakhsh deta hai, jaisa ke seerat mein zikr hai. Hazrat Ibn Arabi 'Futuhat al-Makkiyya' mein farmate hain, 'Al-Mu’izz (SAW) ka zikr qalb ko izzat ka noor deta hai.' Qadri silsila isay 70 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Mu’izz signifies the one who grants honor to the ummah, as noted in his biography. Ibn Arabi in 'Futuhat al-Makkiyya' states, 'The zikr of Al-Mu’izz (PBUH) fills the heart with the light of honor.' The Qadri order suggests reciting it 70 times daily after Zuhr.",
+        "urduDesc": "المعز کا مطلب ہے وہ جو امت کو عزت بخش دیتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت ابن عربی 'فتوحات مکیہ' میں فرماتے ہیں، 'المعز (صلی اللہ علیہ وسلم) کا ذکر قلب کو عزت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 70 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المزمل",
+        "roman": "Al-Muzzammil",
+        "english": "The Enwrapped",
+        "urdu": "چادر اوڑھنے والا",
+        "romanDesc": "Al-Muzzammil ka matlab hai wo jo chadar mein lipta hua hai, jaisa ke Surah Al-Muzzammil (73:1) mein zikr hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'Al-Muzzammil (SAW) ka zikr qalb ko tahajjud ka noor deta hai.' Qadri silsila isay 80 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Muzzammil signifies the one wrapped in a cloak, as mentioned in Surah Al-Muzzammil (73:1). Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of Al-Muzzammil (PBUH) fills the heart with the light of night prayers.' The Qadri order suggests reciting it 80 times daily after Asr.",
+        "urduDesc": "المزمل کا مطلب ہے وہ جو چادر میں لپٹا ہوا ہے، جیسا کہ سورۃ المزمل (73:1) میں ذکر ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'المزمل (صلی اللہ علیہ وسلم) کا ذکر قلب کو تہجد کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 80 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المدثر",
+        "roman": "Al-Muddaththir",
+        "english": "The Covered",
+        "urdu": "کپڑا لپیٹنے والا",
+        "romanDesc": "Al-Muddaththir ka matlab hai wo jo kambal mein lipta hua hai, jaisa ke Surah Al-Muddaththir (74:1) mein zikr hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'Al-Muddaththir (SAW) ka zikr qalb ko wahy ka noor deta hai.' Qadri silsila isay 90 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Muddaththir signifies the one covered in a blanket, as mentioned in Surah Al-Muddaththir (74:1). Khwaja Moinuddin Chishti states, 'The zikr of Al-Muddaththir (PBUH) fills the heart with the light of revelation.' The Qadri order suggests reciting it 90 times daily after Maghrib.",
+        "urduDesc": "المدثر کا مطلب ہے وہ جو کمبل میں لپٹا ہوا ہے، جیسا کہ سورۃ المدثر (74:1) میں ذکر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'المدثر (صلی اللہ علیہ وسلم) کا ذکر قلب کو وحی کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 90 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الأنور",
+        "roman": "Al-Anwar",
+        "english": "The Most Radiant",
+        "urdu": "سب سے زیادہ روشن",
+        "romanDesc": "Al-Anwar ka matlab hai wo jo sab se ziyada roshan hai, jaisa ke seerat mein zikr hai. Hazrat Bahauddin Naqshband farmate hain, 'Al-Anwar (SAW) ka zikr qalb ko roshni ka noor deta hai.' Qadri silsila isay 66 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Anwar signifies the one who is most radiant, as noted in his biography. Bahauddin Naqshband states, 'The zikr of Al-Anwar (PBUH) fills the heart with the light of radiance.' The Qadri order suggests reciting it 66 times daily after Fajr.",
+        "urduDesc": "الأنور کا مطلب ہے وہ جو سب سے زیادہ روشن ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت بہاؤالدین نقشبند فرماتے ہیں، 'الأنور (صلی اللہ علیہ وسلم) کا ذکر قلب کو روشنی کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الفتاح",
+        "roman": "Al-Fattah",
+        "english": "The Opener of Gates",
+        "urdu": "دروازے کھولنے والا",
+        "romanDesc": "Al-Fattah ka matlab hai wo jo rah-e-haq ke darwaze kholta hai, jaisa ke seerat mein zikr hai. Hazrat Abdul Qadir Jilani 'Futooh al-Ghaib' mein farmate hain, 'Al-Fattah (SAW) ka zikr qalb ke darwaze kholta hai.' Qadri silsila isay 88 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Fattah signifies the one who opens the gates of truth, as noted in his biography. Shaykh Abdul Qadir Jilani in 'Futooh al-Ghaib' states, 'The zikr of Al-Fattah (PBUH) opens the doors of the heart.' The Qadri order suggests reciting it 88 times daily after Zuhr.",
+        "urduDesc": "الفتاح کا مطلب ہے وہ جو راہ حق کے دروازے کھولتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'فتوح الغیب' میں فرماتے ہیں، 'الفتاح (صلی اللہ علیہ وسلم) کا ذکر قلب کے دروازے کھولتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 88 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "السميع",
+        "roman": "As-Sami’",
+        "english": "The All-Hearing",
+        "urdu": "سب کچھ سننے والا",
+        "romanDesc": "As-Sami’ ka matlab hai wo jo ummat ki faryad sunta hai, jaisa ke seerat mein zikr hai. Hazrat Ibn Arabi 'Fusus al-Hikam' mein farmate hain, 'As-Sami’ (SAW) ka zikr qalb ko sama’at ka noor deta hai.' Qadri silsila isay 77 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "As-Sami’ signifies the one who hears the cries of the ummah, as noted in his biography. Ibn Arabi in 'Fusus al-Hikam' states, 'The zikr of As-Sami’ (PBUH) fills the heart with the light of hearing.' The Qadri order suggests reciting it 77 times daily after Asr.",
+        "urduDesc": "السمیع کا مطلب ہے وہ جو امت کی فریاد سنتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت ابن عربی 'فیوض الحکم' میں فرماتے ہیں، 'السمیع (صلی اللہ علیہ وسلم) کا ذکر قلب کو سماعت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 77 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "البصير",
+        "roman": "Al-Basir",
+        "english": "The All-Seeing",
+        "urdu": "سب کچھ دیکھنے والا",
+        "romanDesc": "Al-Basir ka matlab hai wo jo ummat ke haal ko dekhta hai, jaisa ke seerat mein zikr hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'Al-Basir (SAW) ka zikr qalb ko basarat ka noor deta hai.' Qadri silsila isay 66 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Basir signifies the one who sees the state of the ummah, as noted in his biography. Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of Al-Basir (PBUH) fills the heart with the light of vision.' The Qadri order suggests reciting it 66 times daily after Maghrib.",
+        "urduDesc": "البصیر کا مطلب ہے وہ جو امت کے حال کو دیکھتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'البصیر (صلی اللہ علیہ وسلم) کا ذکر قلب کو بصارت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "العدل",
+        "roman": "Al-Adl",
+        "english": "The Just",
+        "urdu": "انصاف کرنے والا",
+        "romanDesc": "Al-Adl ka matlab hai wo jo insaf karta hai, jaisa ke seerat mein zikr hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'Al-Adl (SAW) ka zikr qalb ko insaf ka noor deta hai.' Qadri silsila isay 55 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Adl signifies the one who upholds justice, as noted in his biography. Khwaja Moinuddin Chishti states, 'The zikr of Al-Adl (PBUH) fills the heart with the light of justice.' The Qadri order suggests reciting it 55 times daily after Fajr.",
+        "urduDesc": "العدل کا مطلب ہے وہ جو انصاف کرتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'العدل (صلی اللہ علیہ وسلم) کا ذکر قلب کو انصاف کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 55 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "اللطيف",
+        "roman": "Al-Latif",
+        "english": "The Subtle",
+        "urdu": "نرم دل",
+        "romanDesc": "Al-Latif ka matlab hai wo jo nihayat narmi se ummat se muamla karta hai, jaisa ke seerat mein zikr hai. Hazrat Bahauddin Naqshband farmate hain, 'Al-Latif (SAW) ka zikr qalb ko lutf ka noor deta hai.' Qadri silsila isay 88 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Latif signifies the one who deals with the ummah with utmost subtlety, as noted in his biography. Bahauddin Naqshband states, 'The zikr of Al-Latif (PBUH) fills the heart with the light of subtlety.' The Qadri order suggests reciting it 88 times daily after Zuhr.",
+        "urduDesc": "اللطیف کا مطلب ہے وہ جو نہایت نرمی سے امت سے معاملہ کرتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت بہاؤالدین نقشبند فرماتے ہیں، 'اللطیف (صلی اللہ علیہ وسلم) کا ذکر قلب کو لطف کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 88 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الخبير",
+        "roman": "Al-Khabir",
+        "english": "The All-Aware",
+        "urdu": "سب سے آگاہ",
+        "romanDesc": "Al-Khabir ka matlab hai wo jo har cheez se agah hai, jaisa ke seerat mein zikr hai. Hazrat Abdul Qadir Jilani 'Sirr al-Asrar' mein farmate hain, 'Al-Khabir (SAW) ka zikr qalb ko agahi ka noor deta hai.' Qadri silsila isay 77 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Khabir signifies the one who is aware of everything, as noted in his biography. Shaykh Abdul Qadir Jilani in 'Sirr al-Asrar' states, 'The zikr of Al-Khabir (PBUH) fills the heart with the light of awareness.' The Qadri order suggests reciting it 77 times daily after Asr.",
+        "urduDesc": "الخبیر کا مطلب ہے وہ جو ہر چیز سے آگاہ ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'سر الاسرار' میں فرماتے ہیں، 'الخبیر (صلی اللہ علیہ وسلم) کا ذکر قلب کو آگاہی کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 77 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الحفيظ",
+        "roman": "Al-Hafiz",
+        "english": "The Protector",
+        "urdu": "محافظ",
+        "romanDesc": "Al-Hafiz ka matlab hai wo jo ummat ki hifazat karta hai, jaisa ke seerat mein zikr hai. Hazrat Ibn Arabi 'Futuhat al-Makkiyya' mein farmate hain, 'Al-Hafiz (SAW) ka zikr qalb ko hifazat ka noor deta hai.' Qadri silsila isay 66 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Hafiz signifies the one who protects the ummah, as noted in his biography. Ibn Arabi in 'Futuhat al-Makkiyya' states, 'The zikr of Al-Hafiz (PBUH) fills the heart with the light of protection.' The Qadri order suggests reciting it 66 times daily after Maghrib.",
+        "urduDesc": "الحفیظ کا مطلب ہے وہ جو امت کی حفاظت کرتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت ابن عربی 'فتوحات مکیہ' میں فرماتے ہیں، 'الحفیظ (صلی اللہ علیہ وسلم) کا ذکر قلب کو حفاظت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المقيت",
+        "roman": "Al-Muqit",
+        "english": "The Sustainer",
+        "urdu": "روزگار دینے والا",
+        "romanDesc": "Al-Muqit ka matlab hai wo jo ummat ko rizq deta hai, jaisa ke seerat mein zikr hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'Al-Muqit (SAW) ka zikr qalb ko rizq ka noor deta hai.' Qadri silsila isay 55 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Muqit signifies the one who provides sustenance to the ummah, as noted in his biography. Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of Al-Muqit (PBUH) fills the heart with the light of sustenance.' The Qadri order suggests reciting it 55 times daily after Fajr.",
+        "urduDesc": "المقیت کا مطلب ہے وہ جو امت کو رزق دیتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'المقیت (صلی اللہ علیہ وسلم) کا ذکر قلب کو رزق کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 55 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الحسيب",
+        "roman": "Al-Hasib",
+        "english": "The Reckoner",
+        "urdu": "حساب لینے والا",
+        "romanDesc": "Al-Hasib ka matlab hai wo jo ummat ka hisab rakhta hai, jaisa ke seerat mein zikr hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'Al-Hasib (SAW) ka zikr qalb ko hisab ka noor deta hai.' Qadri silsila isay 88 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Hasib signifies the one who keeps account of the ummah, as noted in his biography. Khwaja Moinuddin Chishti states, 'The zikr of Al-Hasib (PBUH) fills the heart with the light of reckoning.' The Qadri order suggests reciting it 88 times daily after Zuhr.",
+        "urduDesc": "الحسیب کا مطلب ہے وہ جو امت کا حساب رکھتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'الحسیب (صلی اللہ علیہ وسلم) کا ذکر قلب کو حساب کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 88 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الجليل",
+        "roman": "Al-Jalil",
+        "english": "The Majestic",
+        "urdu": "عظمت والا",
+        "romanDesc": "Al-Jalil ka matlab hai wo jo azmat ka malik hai, jaisa ke seerat mein zikr hai. Hazrat Bahauddin Naqshband farmate hain, 'Al-Jalil (SAW) ka zikr qalb ko jalal ka noor deta hai.' Qadri silsila isay 77 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Jalil signifies the one who possesses majesty, as noted in his biography. Bahauddin Naqshband states, 'The zikr of Al-Jalil (PBUH) fills the heart with the light of majesty.' The Qadri order suggests reciting it 77 times daily after Asr.",
+        "urduDesc": "الجلیل کا مطلب ہے وہ جو عظمت کا مالک ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت بہاؤالدین نقشبند فرماتے ہیں، 'الجلیل (صلی اللہ علیہ وسلم) کا ذکر قلب کو جلال کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 77 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الكبير",
+        "roman": "Al-Kabir",
+        "english": "The Great",
+        "urdu": "عظیم",
+        "romanDesc": "Al-Kabir ka matlab hai wo jo har cheez se bara hai, jaisa ke seerat mein zikr hai. Hazrat Abdul Qadir Jilani 'Futooh al-Ghaib' mein farmate hain, 'Al-Kabir (SAW) ka zikr qalb ko azmat ka noor deta hai.' Qadri silsila isay 66 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Kabir signifies the one greater than all, as noted in his biography. Shaykh Abdul Qadir Jilani in 'Futooh al-Ghaib' states, 'The zikr of Al-Kabir (PBUH) fills the heart with the light of greatness.' The Qadri order suggests reciting it 66 times daily after Maghrib.",
+        "urduDesc": "الکبیر کا مطلب ہے وہ جو ہر چیز سے بڑا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'فتوح الغیب' میں فرماتے ہیں، 'الکبیر (صلی اللہ علیہ وسلم) کا ذکر قلب کو عظمت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "العلي",
+        "roman": "Al-Ali",
+        "english": "The Exalted",
+        "urdu": "بلند مرتبہ",
+        "romanDesc": "Al-Ali ka matlab hai wo jo har cheez se buland hai, jaisa ke seerat mein zikr hai. Hazrat Ibn Arabi 'Fusus al-Hikam' mein farmate hain, 'Al-Ali (SAW) ka zikr qalb ko bulandi ka noor deta hai.' Qadri silsila isay 55 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Ali signifies the one exalted above all, as noted in his biography. Ibn Arabi in 'Fusus al-Hikam' states, 'The zikr of Al-Ali (PBUH) fills the heart with the light of exaltation.' The Qadri order suggests reciting it 55 times daily after Fajr.",
+        "urduDesc": "العلی کا مطلب ہے وہ جو ہر چیز سے بلند ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت ابن عربی 'فیوض الحکم' میں فرماتے ہیں، 'العلی (صلی اللہ علیہ وسلم) کا ذکر قلب کو بلندی کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 55 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "العظيم",
+        "roman": "Al-Azim",
+        "english": "The Magnificent",
+        "urdu": "عظیم الشان",
+        "romanDesc": "Al-Azim ka matlab hai wo jo nihayat azeem hai, jaisa ke seerat mein zikr hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'Al-Azim (SAW) ka zikr qalb ko azmat ka noor deta hai.' Qadri silsila isay 88 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Azim signifies the one who is supremely magnificent, as noted in his biography. Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of Al-Azim (PBUH) fills the heart with the light of magnificence.' The Qadri order suggests reciting it 88 times daily after Zuhr.",
+        "urduDesc": "العظیم کا مطلب ہے وہ جو نہایت عظیم ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'العظیم (صلی اللہ علیہ وسلم) کا ذکر قلب کو عظمت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 88 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المحسن",
+        "roman": "Al-Muhsin",
+        "english": "The Benefactor",
+        "urdu": "احسان کرنے والا",
+        "romanDesc": "Al-Muhsin ka matlab hai wo jo ummat par ihsan karta hai, jaisa ke seerat mein zikr hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'Al-Muhsin (SAW) ka zikr qalb ko ihsan ka noor deta hai.' Qadri silsila isay 77 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Muhsin signifies the one who bestows favors upon the ummah, as noted in his biography. Khwaja Moinuddin Chishti states, 'The zikr of Al-Muhsin (PBUH) fills the heart with the light of beneficence.' The Qadri order suggests reciting it 77 times daily after Asr.",
+        "urduDesc": "المحسن کا مطلب ہے وہ جو امت پر احسان کرتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'المحسن (صلی اللہ علیہ وسلم) کا ذکر قلب کو احسان کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 77 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المستعان",
+        "roman": "Al-Musta’an",
+        "english": "The One Sought for Help",
+        "urdu": "مدد مانگا جانے والا",
+        "romanDesc": "Al-Musta’an ka matlab hai wo jisse har mushkil mein madad maangi jati hai, jaisa ke seerat mein zikr hai. Hazrat Bahauddin Naqshband farmate hain, 'Al-Musta’an (SAW) ka zikr qalb ko madad ka noor deta hai.' Qadri silsila isay 66 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Musta’an signifies the one sought for help in every difficulty, as noted in his biography. Bahauddin Naqshband states, 'The zikr of Al-Musta’an (PBUH) fills the heart with the light of aid.' The Qadri order suggests reciting it 66 times daily after Maghrib.",
+        "urduDesc": "المستعان کا مطلب ہے وہ جس سے ہر مشکل میں مدد مانگی جاتی ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت بہاؤالدین نقشبند فرماتے ہیں، 'المستعان (صلی اللہ علیہ وسلم) کا ذکر قلب کو مدد کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الوكيل",
+        "roman": "Al-Wakil",
+        "english": "The Trustee",
+        "urdu": "نمائندہ",
+        "romanDesc": "Al-Wakil ka matlab hai wo jo ummat ke umoor ka nigran hai, jaisa ke seerat mein zikr hai. Hazrat Abdul Qadir Jilani 'Ghunyat at-Talibin' mein farmate hain, 'Al-Wakil (SAW) ka zikr qalb ko itminan ka noor deta hai.' Qadri silsila isay 100 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Wakil signifies the one who is the trustee of the ummah’s affairs, as noted in his biography. Shaykh Abdul Qadir Jilani in 'Ghunyat at-Talibin' states, 'The zikr of Al-Wakil (PBUH) fills the heart with the light of tranquility.' The Qadri order suggests reciting it 100 times daily after Fajr.",
+        "urduDesc": "الوکیل کا مطلب ہے وہ جو امت کے امور کا نگراں ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'غنیۃ الطالبین' میں فرماتے ہیں، 'الوکیل (صلی اللہ علیہ وسلم) کا ذکر قلب کو اطمینان کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 100 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "القادر",
+        "roman": "Al-Qadir",
+        "english": "The All-Powerful",
+        "urdu": "قدرت والا",
+        "romanDesc": "Al-Qadir ka matlab hai wo jo har cheez par qadir hai, jaisa ke seerat mein zikr hai. Hazrat Ibn Arabi 'Futuhat al-Makkiyya' mein farmate hain, 'Al-Qadir (SAW) ka zikr qalb ko qudrat ka noor deta hai.' Qadri silsila isay 70 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Qadir signifies the one who has power over all things, as noted in his biography. Ibn Arabi in 'Futuhat al-Makkiyya' states, 'The zikr of Al-Qadir (PBUH) fills the heart with the light of divine power.' The Qadri order suggests reciting it 70 times daily after Zuhr.",
+        "urduDesc": "القادر کا مطلب ہے وہ جو ہر چیز پر قادر ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت ابن عربی 'فتوحات مکیہ' میں فرماتے ہیں، 'القادر (صلی اللہ علیہ وسلم) کا ذکر قلب کو قدرت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 70 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المقتدر",
+        "roman": "Al-Muqtadir",
+        "english": "The All-Determining",
+        "urdu": "فیصلہ کرنے والا",
+        "romanDesc": "Al-Muqtadir ka matlab hai wo jo har cheez ka faisla karta hai, jaisa ke seerat mein zikr hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'Al-Muqtadir (SAW) ka zikr qalb ko faisla ka noor deta hai.' Qadri silsila isay 80 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Muqtadir signifies the one who determines all matters, as noted in his biography. Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of Al-Muqtadir (PBUH) fills the heart with the light of determination.' The Qadri order suggests reciting it 80 times daily after Asr.",
+        "urduDesc": "المقتدر کا مطلب ہے وہ جو ہر چیز کا فیصلہ کرتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'المقتدر (صلی اللہ علیہ وسلم) کا ذکر قلب کو فیصلہ کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 80 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الوالي",
+        "roman": "Al-Wali",
+        "english": "The Guardian",
+        "urdu": "سرپرست",
+        "romanDesc": "Al-Wali ka matlab hai wo jo ummat ka sarparast hai, jaisa ke seerat mein zikr hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'Al-Wali (SAW) ka zikr qalb ko wilayat ka noor deta hai.' Qadri silsila isay 90 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Wali signifies the one who is the guardian of the ummah, as noted in his biography. Khwaja Moinuddin Chishti states, 'The zikr of Al-Wali (PBUH) fills the heart with the light of guardianship.' The Qadri order suggests reciting it 90 times daily after Maghrib.",
+        "urduDesc": "الوالی کا مطلب ہے وہ جو امت کا سرپرست ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'الوالی (صلی اللہ علیہ وسلم) کا ذکر قلب کو ولایت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 90 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الحميد",
+        "roman": "Al-Hamid",
+        "english": "The Praiseworthy",
+        "urdu": "قابل تعریف",
+        "romanDesc": "Al-Hamid ka matlab hai wo jo har tarah se sataish ke qabil hai, jaisa ke seerat mein zikr hai. Hazrat Bahauddin Naqshband farmate hain, 'Al-Hamid (SAW) ka zikr qalb ko hamd ka noor deta hai.' Qadri silsila isay 66 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Hamid signifies the one worthy of all praise, as noted in his biography. Bahauddin Naqshband states, 'The zikr of Al-Hamid (PBUH) fills the heart with the light of praise.' The Qadri order suggests reciting it 66 times daily after Fajr.",
+        "urduDesc": "الحمید کا مطلب ہے وہ جو ہر طرح سے ستائش کے قابل ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت بہاؤالدین نقشبند فرماتے ہیں، 'الحمید (صلی اللہ علیہ وسلم) کا ذکر قلب کو حمد کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المحصي",
+        "roman": "Al-Muhsi",
+        "english": "The Reckoner of All",
+        "urdu": "سب کا حساب رکھنے والا",
+        "romanDesc": "Al-Muhsi ka matlab hai wo jo har cheez ka shumar rakhta hai, jaisa ke seerat mein zikr hai. Hazrat Abdul Qadir Jilani 'Futooh al-Ghaib' mein farmate hain, 'Al-Muhsi (SAW) ka zikr qalb ko shumar ka noor deta hai.' Qadri silsila isay 88 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Muhsi signifies the one who keeps count of everything, as noted in his biography. Shaykh Abdul Qadir Jilani in 'Futooh al-Ghaib' states, 'The zikr of Al-Muhsi (PBUH) fills the heart with the light of reckoning.' The Qadri order suggests reciting it 88 times daily after Zuhr.",
+        "urduDesc": "المحصی کا مطلب ہے وہ جو ہر چیز کا شمار رکھتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'فتوح الغیب' میں فرماتے ہیں، 'المحصی (صلی اللہ علیہ وسلم) کا ذکر قلب کو شمار کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 88 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المبدئ",
+        "roman": "Al-Mubdi",
+        "english": "The Originator",
+        "urdu": "ابتدا کرنے والا",
+        "romanDesc": "Al-Mubdi ka matlab hai wo jo naye rahon ka aghaz karta hai, jaisa ke seerat mein zikr hai. Hazrat Ibn Arabi 'Fusus al-Hikam' mein farmate hain, 'Al-Mubdi (SAW) ka zikr qalb ko ibtida ka noor deta hai.' Qadri silsila isay 77 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Mubdi signifies the one who initiates new paths, as noted in his biography. Ibn Arabi in 'Fusus al-Hikam' states, 'The zikr of Al-Mubdi (PBUH) fills the heart with the light of origination.' The Qadri order suggests reciting it 77 times daily after Asr.",
+        "urduDesc": "المبدیء کا مطلب ہے وہ جو نئی راہوں کا آغاز کرتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت ابن عربی 'فیوض الحکم' میں فرماتے ہیں، 'المبدیء (صلی اللہ علیہ وسلم) کا ذکر قلب کو ابتدا کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 77 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المعيد",
+        "roman": "Al-Mu’id",
+        "english": "The Restorer",
+        "urdu": "واپس لانے والا",
+        "romanDesc": "Al-Mu’id ka matlab hai wo jo ummat ko haq ki taraf wapas lata hai, jaisa ke seerat mein zikr hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'Al-Mu’id (SAW) ka zikr qalb ko rujoo ka noor deta hai.' Qadri silsila isay 66 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Mu’id signifies the one who brings the ummah back to truth, as noted in his biography. Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of Al-Mu’id (PBUH) fills the heart with the light of return.' The Qadri order suggests reciting it 66 times daily after Maghrib.",
+        "urduDesc": "المعید کا مطلب ہے وہ جو امت کو حق کی طرف واپس لاتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'المعید (صلی اللہ علیہ وسلم) کا ذکر قلب کو رجوع کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المحيي",
+        "roman": "Al-Muhyi",
+        "english": "The Giver of Life",
+        "urdu": "زندگی دینے والا",
+        "romanDesc": "Al-Muhyi ka matlab hai wo jo qalbon ko zinda karta hai, jaisa ke seerat mein zikr hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'Al-Muhyi (SAW) ka zikr qalb ko hayat ka noor deta hai.' Qadri silsila isay 55 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Muhyi signifies the one who revives hearts, as noted in his biography. Khwaja Moinuddin Chishti states, 'The zikr of Al-Muhyi (PBUH) fills the heart with the light of life.' The Qadri order suggests reciting it 55 times daily after Fajr.",
+        "urduDesc": "المحیی کا مطلب ہے وہ جو قلبوں کو زندہ کرتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'المحیی (صلی اللہ علیہ وسلم) کا ذکر قلب کو حیات کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 55 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "المميت",
+        "roman": "Al-Mumit",
+        "english": "The Bringer of Death",
+        "urdu": "موت دینے والا",
+        "romanDesc": "Al-Mumit ka matlab hai wo jo nafsani khwahishat ko marta hai, jaisa ke seerat mein zikr hai. Hazrat Bahauddin Naqshband farmate hain, 'Al-Mumit (SAW) ka zikr qalb ko tazkiya ka noor deta hai.' Qadri silsila isay 88 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Mumit signifies the one who causes worldly desires to die, as noted in his biography. Bahauddin Naqshband states, 'The zikr of Al-Mumit (PBUH) fills the heart with the light of purification.' The Qadri order suggests reciting it 88 times daily after Zuhr.",
+        "urduDesc": "الممیت کا مطلب ہے وہ جو نفسانی خواہشات کو مارتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت بہاؤالدین نقشبند فرماتے ہیں، 'الممیت (صلی اللہ علیہ وسلم) کا ذکر قلب کو تزکیہ کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 88 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الحي",
+        "roman": "Al-Hayy",
+        "english": "The Ever-Living",
+        "urdu": "ہمیشہ زندہ",
+        "romanDesc": "Al-Hayy ka matlab hai wo jo hamesha zinda hai rohani tor par, jaisa ke seerat mein zikr hai. Hazrat Abdul Qadir Jilani 'Sirr al-Asrar' mein farmate hain, 'Al-Hayy (SAW) ka zikr qalb ko zindagi ka noor deta hai.' Qadri silsila isay 77 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Hayy signifies the one who is ever-living spiritually, as noted in his biography. Shaykh Abdul Qadir Jilani in 'Sirr al-Asrar' states, 'The zikr of Al-Hayy (PBUH) fills the heart with the light of eternal life.' The Qadri order suggests reciting it 77 times daily after Asr.",
+        "urduDesc": "الحی کا مطلب ہے وہ جو ہمیشہ زندہ ہے روحانی طور پر، جیسا کہ سیرت میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'سر الاسرار' میں فرماتے ہیں، 'الحی (صلی اللہ علیہ وسلم) کا ذکر قلب کو زندگی کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 77 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "القيوم",
+        "roman": "Al-Qayyum",
+        "english": "The Self-Subsisting",
+        "urdu": "ہمیشہ قائم",
+        "romanDesc": "Al-Qayyum ka matlab hai wo jo hamesha qaim hai, jaisa ke seerat mein zikr hai. Hazrat Ibn Arabi 'Futuhat al-Makkiyya' mein farmate hain, 'Al-Qayyum (SAW) ka zikr qalb ko qiyam ka noor deta hai.' Qadri silsila isay 66 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Qayyum signifies the one who is self-subsisting, as noted in his biography. Ibn Arabi in 'Futuhat al-Makkiyya' states, 'The zikr of Al-Qayyum (PBUH) fills the heart with the light of permanence.' The Qadri order suggests reciting it 66 times daily after Maghrib.",
+        "urduDesc": "القیوم کا مطلب ہے وہ جو ہمیشہ قائم ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت ابن عربی 'فتوحات مکیہ' میں فرماتے ہیں، 'القیوم (صلی اللہ علیہ وسلم) کا ذکر قلب کو قیام کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الواجد",
+        "roman": "Al-Wajid",
+        "english": "The Finder",
+        "urdu": "پانے والا",
+        "romanDesc": "Al-Wajid ka matlab hai wo jo har cheez ko pa leta hai, jaisa ke seerat mein zikr hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'Al-Wajid (SAW) ka zikr qalb ko wusool ka noor deta hai.' Qadri silsila isay 55 bar baad az-Fajr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Wajid signifies the one who finds everything, as noted in his biography. Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of Al-Wajid (PBUH) fills the heart with the light of attainment.' The Qadri order suggests reciting it 55 times daily after Fajr.",
+        "urduDesc": "الواجد کا مطلب ہے وہ جو ہر چیز کو پا لیتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'الواجد (صلی اللہ علیہ وسلم) کا ذکر قلب کو وصول کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 55 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الماجد",
+        "roman": "Al-Majid",
+        "english": "The Glorious",
+        "urdu": "با عظمت",
+        "romanDesc": "Al-Majid ka matlab hai wo jo nihayat azmat wala hai, jaisa ke seerat mein zikr hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'Al-Majid (SAW) ka zikr qalb ko jalal ka noor deta hai.' Qadri silsila isay 88 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Majid signifies the one who is supremely glorious, as noted in his biography. Khwaja Moinuddin Chishti states, 'The zikr of Al-Majid (PBUH) fills the heart with the light of glory.' The Qadri order suggests reciting it 88 times daily after Zuhr.",
+        "urduDesc": "الماجد کا مطلب ہے وہ جو نہایت عظمت والا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'الماجد (صلی اللہ علیہ وسلم) کا ذکر قلب کو جلال کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 88 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الواحد",
+        "roman": "Al-Wahid",
+        "english": "The One",
+        "urdu": "ایک",
+        "romanDesc": "Al-Wahid ka matlab hai wo jo apni zaat mein yagana hai, jaisa ke seerat mein zikr hai. Hazrat Bahauddin Naqshband farmate hain, 'Al-Wahid (SAW) ka zikr qalb ko tawheed ka noor deta hai.' Qadri silsila isay 77 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Wahid signifies the one who is unique in his essence, as noted in his biography. Bahauddin Naqshband states, 'The zikr of Al-Wahid (PBUH) fills the heart with the light of oneness.' The Qadri order suggests reciting it 77 times daily after Asr.",
+        "urduDesc": "الواحد کا مطلب ہے وہ جو اپنی ذات میں یگانہ ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت بہاؤالدین نقشبند فرماتے ہیں، 'الواحد (صلی اللہ علیہ وسلم) کا ذکر قلب کو توحید کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 77 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الأحد",
+        "roman": "Al-Ahad",
+        "english": "The Unique",
+        "urdu": "بے مثل",
+        "romanDesc": "Al-Ahad ka matlab hai wo jo be-misal hai, jaisa ke seerat mein zikr hai. Hazrat Abdul Qadir Jilani 'Futooh al-Ghaib' mein farmate hain, 'Al-Ahad (SAW) ka zikr qalb ko yaganagi ka noor deta hai.' Qadri silsila isay 66 bar baad az-Maghrib padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Ahad signifies the one who is unparalleled, as noted in his biography. Shaykh Abdul Qadir Jilani in 'Futooh al-Ghaib' states, 'The zikr of Al-Ahad (PBUH) fills the heart with the light of uniqueness.' The Qadri order suggests reciting it 66 times daily after Maghrib.",
+        "urduDesc": "الاحد کا مطلب ہے وہ جو بے مثل ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت عبدالقادر جیلانی 'فتوح الغیب' میں فرماتے ہیں، 'الاحد (صلی اللہ علیہ وسلم) کا ذکر قلب کو یگانیت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ مغرب کے بعد 66 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الصمد",
+        "roman": "As-Samad",
+        "english": "The Eternal Refuge",
+        "urdu": "بے نیاز",
+        "romanDesc": "As-Samad ka matlab hai wo jo sab ka sahara hai, jaisa ke seerat mein zikr hai. Hazrat Ibn Arabi 'Fusus al-Hikam' mein farmate hain, 'As-Samad (SAW) ka zikr qalb ko panah ka noor deta hai.' Qadri silsila isay 55 bar baad az-Fajr padhne ka mashwara.",
+        "englishDesc": "As-Samad signifies the one who is the eternal refuge for all, as noted in his biography. Ibn Arabi in 'Fusus al-Hikam' states, 'The zikr of As-Samad (PBUH) fills the heart with the light of refuge.' The Qadri order suggests reciting it 55 times daily after Fajr.",
+        "urduDesc": "الصمد کا مطلب ہے وہ جو سب کا سہارا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت ابن عربی 'فیوض الحکم' میں فرماتے ہیں، 'الصمد (صلی اللہ علیہ وسلم) کا ذکر قلب کو پناہ کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ فجر کے بعد 55 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "القاهر",
+        "roman": "Al-Qahir",
+        "english": "The Subduer",
+        "urdu": "غالب",
+        "romanDesc": "Al-Qahir ka matlab hai wo jo har cheez par ghalib hai, jaisa ke seerat mein zikr hai. Hazrat Data Ganj Bakhsh 'Kashf al-Mahjub' mein farmate hain, 'Al-Qahir (SAW) ka zikr qalb ko ghalba ka noor deta hai.' Qadri silsila isay 88 bar baad az-Zuhr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Qahir signifies the one who subdues all things, as noted in his biography. Data Ganj Bakhsh in 'Kashf al-Mahjub' states, 'The zikr of Al-Qahir (PBUH) fills the heart with the light of dominance.' The Qadri order suggests reciting it 88 times daily after Zuhr.",
+        "urduDesc": "القاہر کا مطلب ہے وہ جو ہر چیز پر غالب ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت داتا گنج بخش 'کشف المحجوب' میں فرماتے ہیں، 'القاہر (صلی اللہ علیہ وسلم) کا ذکر قلب کو غلبہ کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ ظہر کے بعد 88 بار پڑھنے کا مشورہ دیتا ہے۔"
+    },
+    {
+        "arabic": "الغفار",
+        "roman": "Al-Ghaffar",
+        "english": "The All-Forgiving",
+        "urdu": "بہت بخشنے والا",
+        "romanDesc": "Al-Ghaffar ka matlab hai wo jo bar bar gunah maaf karta hai, jaisa ke seerat mein zikr hai. Hazrat Khwaja Moinuddin Chishti farmate hain, 'Al-Ghaffar (SAW) ka zikr qalb ko maghfirat ka noor deta hai.' Qadri silsila isay 77 bar baad az-Asr padhne ka mashwara deta hai.",
+        "englishDesc": "Al-Ghaffar signifies the one who repeatedly forgives sins, as noted in his biography. Khwaja Moinuddin Chishti states, 'The zikr of Al-Ghaffar (PBUH) fills the heart with the light of forgiveness.' The Qadri order suggests reciting it 77 times daily after Asr.",
+        "urduDesc": "الغفار کا مطلب ہے وہ جو بار بار گناہ معاف کرتا ہے، جیسا کہ سیرت میں ذکر ہے۔ حضرت خواجہ معین الدین چشتی فرماتے ہیں، 'الغفار (صلی اللہ علیہ وسلم) کا ذکر قلب کو مغفرت کا نور دیتا ہے۔' قادری سلسلہ اسے روزانہ عصر کے بعد 77 بار پڑھنے کا مشورہ دیتا ہے۔"
+    }
+]

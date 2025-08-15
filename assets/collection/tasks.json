@@ -1,0 +1,67 @@
+[
+  {
+    "date_from": "2023-01-01",
+    "date_to": "2023-12-31",
+    "heading": "Tasawwur E Murshid",
+    "short_desc": "Visualization of the Spiritual Guide",
+    "description": {
+      "english": "Bring any picture of your Murshid before you, imagine your Murshid is present before you, and visualize divine light (noor) entering you from their heart and head with each breath while doing Allah Hu.",
+      "urdu": "اپنے مرشد کی کسی بھی تصویر کو اپنے سامنے لائیں، تصور کریں کہ مرشد آپ کے سامنے موجود ہیں، اور ان کے سینے اور سر سے نور آپ میں آرہا ہے، اپنی سانس کے ساتھ 'اللہ ہو' کرتے ہوئے۔",
+      "roman_urdu": "Apne murshid ki kisi bhi tasveer ko apne samne layen, tasawwur karein ke murshid aap ke samne mojood hain, aur unke seenay aur sir se noor aap mein aa raha hai, apni saans ke saath 'Allah Hu' karte hue."
+    },
+    "image_url": "https://drive.google.com/file/d/1kb91wZnG6OPRkDlO3mpzTh5gX_lGorjM/view?usp=drive_link",
+    "isActive": true
+  },
+  {
+    "date_from": "2023-01-01",
+    "date_to": "2023-12-31",
+    "heading": "Lataif Zikr - Maghrib",
+    "short_desc": "Post-Maghrib Lataif Zikr",
+    "description": {
+      "english": "After Maghrib prayers:\n\n- Laa ilaha illallah 300 times\n- Laa ilah illalah muhammadur rasoolallah 300 times\n- Illalah 300 times\n- Allah 300 times\n- Allah Hu 300 times\n- Yaa Huu 300 times\n- Yaa Allah 300 times\n- Yaa Ahad 200 times\n- Yaa Wahid 200 times\n- Yaa Samad 200 times\n- Yaa Hayyu Yaa Qayyum 200 times\n- Yaa Huu Yaa Allah 300 times",
+      "urdu": "مغرب کی نماز کے بعد:\n\n- لا الہ الا اللہ 300 بار\n- لا الہ الا اللہ محمد رسول اللہ 300 بار\n- الا اللہ 300 بار\n- اللہ 300 بار\n- اللہ ہو 300 بار\n- یا ہو 300 بار\n- یا اللہ 300 بار\n- یا احد 200 بار\n- یا واحد 200 بار\n- یا صمد 200 بار\n- یا حی یا قیوم 200 بار\n- یا ہو یا اللہ 300 بار",
+      "roman_urdu": "Maghrib ki namaz ke baad:\n\n- La ilaha illallah 300 baar\n- La ilaha illallah muhammadur rasoolallah 300 baar\n- Illallah 300 baar\n- Allah 300 baar\n- Allah Hu 300 baar\n- Yaa Huu 300 baar\n- Yaa Allah 300 baar\n- Yaa Ahad 200 baar\n- Yaa Wahid 200 baar\n- Yaa Samad 200 baar\n- Yaa Hayyu Yaa Qayyum 200 baar\n- Yaa Huu Yaa Allah 300 baar"
+    },
+    "image_url": "https://drive.google.com/file/d/1Q96ONFcbfgG5C-W5CrqYUnqRRE9eL_7a/view?usp=sharing",
+    "isActive": true
+  },
+  {
+    "date_from": "2023-01-01",
+    "date_to": "2023-12-31",
+    "heading": "Lataif Zikr - Tahajjud",
+    "short_desc": "Tahajjud time Lataif Zikr",
+    "description": {
+      "english": "During Tahajjud prayers:\n\n- Laa ilaha illallah 300 times\n- Laa ilah illalah muhammadur rasoolallah 300 times\n- Illalah 300 times\n- Allah 300 times\n- Allah Hu 300 times\n- Yaa Huu 300 times\n- Yaa Allah 300 times\n- Yaa Ahad 200 times\n- Yaa Wahid 200 times\n- Yaa Samad 200 times\n- Yaa Hayyu Yaa Qayyum 200 times\n- Yaa Huu Yaa Allah 300 times",
+      "urdu": "تہجد کی نماز کے دوران:\n\n- لا الہ الا اللہ 300 بار\n- لا الہ الا اللہ محمد رسول اللہ 300 بار\n- الا اللہ 300 بار\n- اللہ 300 بار\n- اللہ ہو 300 بار\n- یا ہو 300 بار\n- یا اللہ 300 بار\n- یا احد 200 بار\n- یا واحد 200 بار\n- یا صمد 200 بار\n- یا حی یا قیوم 200 بار\n- یا ہو یا اللہ 300 بار",
+      "roman_urdu": "Tahajjud ki namaz ke dauraan:\n\n- La ilaha illallah 300 baar\n- La ilaha illallah muhammadur rasoolallah 300 baar\n- Illallah 300 baar\n- Allah 300 baar\n- Allah Hu 300 baar\n- Yaa Huu 300 baar\n- Yaa Allah 300 baar\n- Yaa Ahad 200 baar\n- Yaa Wahid 200 baar\n- Yaa Samad 200 baar\n- Yaa Hayyu Yaa Qayyum 200 baar\n- Yaa Huu Yaa Allah 300 baar"
+    },
+    "image_url": "https://drive.google.com/file/d/1Q96ONFcbfgG5C-W5CrqYUnqRRE9eL_7a/view?usp=sharing",
+    "isActive": false
+  },
+  {
+    "date_from": "2023-01-01",
+    "date_to": "2023-12-31",
+    "heading": "24-Hour Zikr",
+    "short_desc": "Continuous remembrance",
+    "description": {
+      "english": "Bismillahir Rahmanir Raheem. Allahu La Ilaha Illahual Hayyul Qayyum - to be remembered throughout the day and night.",
+      "urdu": "بسم اللہ الرحمن الرحیم۔ اللہ لا الہ الا ھو الحی القیوم - دن رات ہر وقت کا ذکر",
+      "roman_urdu": "Bismillah hir Rahman nir Raheem. Allahu La Ilaha Illahual Hayyul Qayyum - din raat har waqt ka zikr"
+    },
+    "image_url": "",
+    "isActive": true
+  },
+  {
+    "date_from": "2023-01-01",
+    "date_to": "2023-12-31",
+    "heading": "Darood 313",
+    "short_desc": "Special salutations on the Prophet",
+    "description": {
+      "english": "Bismillahir Rahmanir Raheem. Recite Darood Sharif 313 times for spiritual blessings.",
+      "urdu": "بسم اللہ الرحمن الرحیم۔ درود شریف 313 بار پڑھیں روحانی برکات کے لیے",
+      "roman_urdu": "Bismillah hir Rahman nir Raheem. Darood Sharif 313 baar parhain rohani barkaat ke liye"
+    },
+    "image_url": "",
+    "isActive": false
+  }
+]

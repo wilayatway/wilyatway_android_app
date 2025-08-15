@@ -1,0 +1,802 @@
+[
+  {
+    "darood-no": 1,
+    "heading": "Durood-e-Ibrahimi",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aali Muhammadin kama sallayta 'ala Ibrahima wa 'ala aali Ibrahima innaka Hameedun Majeed",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر رحمت نازل فرما جیسے تو نے ابراہیم علیہ السلام اور ان کی آل پر رحمت نازل کی، بے شک تو قابلِ تعریف اور عظمت والا ہے۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par rehmat nazeel farma jaisa tu ne Ibrahim (alaihis salaam) aur un ki aal par rehmat nazeel ki, be-shak tu qabil-e-tareef aur azmat wala hai."
+  },
+  {
+    "darood-no": 2,
+    "heading": "Durood-e-Ibrahimi (with Barakah)",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aali Muhammadin wa barik 'ala Muhammadin wa 'ala aali Muhammadin kama barakta 'ala Ibrahima wa 'ala aali Ibrahima innaka Hameedun Majeed",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر رحمت نازل فرما اور محمد صلی اللہ علیہ وسلم اور ان کی آل پر برکت نازل فرما جیسے تو نے ابراہیم علیہ السلام اور ان کی آل پر برکت نازل کی، بے شک تو قابلِ تعریف اور عظمت والا ہے۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par rehmat nazeel farma aur Muhammad (sallallahu alaihi wasallam) aur un ki aal par barkat nazeel farma jaisa tu ne Ibrahim (alaihis salaam) aur un ki aal par barkat nazeel ki, be-shak tu qabil-e-tareef aur azmat wala hai."
+  },
+  {
+    "darood-no": 3,
+    "heading": "Durood-e-Nabiyyil Ummi",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ عَبْدِكَ وَرَسُولِكَ النَّبِيِّ الأُمِّيِّ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin 'abdika wa rasoolika an-nabiyyi al-ummiyyi wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم پر رحمت نازل فرما جو تیرے بندے اور رسول اور نبی امی ہیں، اور ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) par rehmat nazeel farma jo tere bande aur rasool aur nabi ummi hain, aur un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 4,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ النَّبِيِّ الأُمِّيِّ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ تَسْلِيمًا كَثِيرًا",
+    "roman-english": "Allahumma salli 'ala Muhammadin an-nabiyyi al-ummiyyi wa 'ala aalihi wa sahbihi wa sallim tasleeman katheera",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم پر جو نبی امی ہیں، ان کی آل اور صحابہ پر رحمت اور کثیر سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) par jo nabi ummi hain, un ki aal aur sahaba par rehmat aur kaseer salamti nazeel farma."
+  },
+  {
+    "darood-no": 5,
+    "heading": "Durood-e-Tunajina",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ صَلَاةً تُنَجِّينَا بِهَا مِنْ جَمِيعِ الْأَحْوَالِ وَالْآفَاتِ وَتَقْضِي لَنَا بِهَا جَمِيعَ الْحَاجَاتِ وَتُطَهِّرُنَا بِهَا مِنْ جَمِيعِ السَّيِّئَاتِ وَتَرْفَعُنَا بِهَا عِنْدَكَ أَعْلَى الدَّرَجَاتِ وَتُبَلِّغُنَا بِهَا أَقْصَى الْغَايَاتِ مِنْ جَمِيعِ الْخَيْرَاتِ فِي الْحَيَاةِ وَبَعْدَ الْمَمَاتِ إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "roman-english": "Allahumma salli 'ala sayyidina wa maulana Muhammadin wa 'ala aali sayyidina wa maulana Muhammadin salatan tunajjina biha min jami'il ahwali wal afaat, wa taqdee lana biha jami'il hajaati, wa tutahhiruna biha min jami'is sayyi aati, wa tarfa'una biha 'indaka a'la ad-darajaati, wa tuballighuna biha aqsa al-ghayaati min jami'il khairaati fil hayaati wa ba'dal mamaati innaka 'ala kulli shay'in qadeer",
+    "urdu": "اے اللہ! ہمارے سردار اور مولا محمد صلی اللہ علیہ وسلم اور ان کی آل پر ایسی درود نازل فرما جو ہمیں تمام حالات اور آفات سے نجات دے، ہماری تمام حاجات پوری کرے، ہمیں تمام گناہوں سے پاک کرے، تیرے نزدیک بلند درجات تک پہنچائے، اور زندگی اور موت کے بعد تمام خیرات کے اعلیٰ مقاصد تک ہمیں پہنچائے، بے شک تو ہر چیز پر قادر ہے۔",
+    "roman-urdu": "Aye Allah! Hamare sardar aur maula Muhammad (sallallahu alaihi wasallam) aur un ki aal par aisi durood nazeel farma jo hamein tamaam halaat aur aafaat se nijaat de, hamari tamaam hajaati puri kare, hamein tamaam gunahon se pak kare, tere nazdeek buland darajat tak pahunchaye, aur zindagi aur maut ke baad tamaam khairaat ke aala maqasid tak hamein pahunchaye, be-shak tu har cheez par qadir hai."
+  },
+  {
+    "darood-no": 6,
+    "heading": "Durood-e-Fath",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ الْفَاتِحِ لِمَا أُغْلِقَ وَالْخَاتِمِ لِمَا سَبَقَ نَاصِرِ الْحَقِّ بِالْحَقِّ وَالْهَادِي إِلَى صِرَاطِكَ الْمُسْتَقِيمِ وَعَلَى آلِهِ حَقَّ قَدْرِهِ وَمِقْدَارِهِ الْعَظِيمِ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin al-fatihi lima ughliqa wal khatimi lima sabaqa nasiri al-haqqi bil haqqi wal hadi ila siratika al-mustaqeem wa 'ala aalihi haqqa qadrihi wa miqdarihi al-'azeem",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم پر رحمت نازل فرما جو بند چیزوں کو کھولنے والے، گزشتہ چیزوں کو ختم کرنے والے، حق کے ساتھ حق کی نصرت کرنے والے اور تیرے سیدھے راستے کی طرف ہدایت دینے والے ہیں، اور ان کی آل پر ان کے عظیم قدر و منزلت کے مطابق رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) par rehmat nazeel farma jo band cheezon ko kholne wale, guzashta cheezon ko khatam karne wale, haq ke sath haq ki nusrat karne wale aur tere sidhe raaste ki taraf hidayat dene wale hain, aur un ki aal par un ke azeem qadr o manzilat ke mutabiq rehmat nazeel farma."
+  },
+  {
+    "darood-no": 7,
+    "heading": "Durood-e-Shafi’i",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ كُلَّمَا ذَكَرَهُ الذَّاكِرُونَ وَغَفَلَ عَنْ ذِكْرِهِ الْغَافِلُونَ",
+    "roman-english": "Allahumma salli 'ala Muhammadin kullama zakarahu az-zakiroon wa ghafala 'an zikrihi al-ghafiloon",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم پر رحمت نازل فرما جب بھی ذکر کرنے والے ان کا ذکر کریں اور جب بھی غافل لوگ ان کے ذکر سے غافل رہیں۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) par rehmat nazeel farma jab bhi zikr karne wale un ka zikr karein aur jab bhi ghaafil log un ke zikr se ghaafil rahen."
+  },
+  {
+    "darood-no": 8,
+    "heading": "Durood-e-Akbar",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ النَّبِيِّ الأُمِّيِّ الْحَبِيبِ الْعَالِي الْقَدْرِ الْعَظِيمِ الْجَاهِ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin an-nabiyyi al-ummiyyi al-habibi al-'ali al-qadri al-'azeemi al-jahi wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم پر رحمت نازل فرما جو نبی امی، محبوب، بلند مرتبہ اور عظیم مقام والے ہیں، اور ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) par rehmat nazeel farma jo nabi ummi, mahboob, buland martaba aur azeem maqam wale hain, aur un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 9,
+    "heading": "Durood-e-Taj",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ صَاحِبِ التَّاجِ وَالْمِعْرَاجِ وَالْبُرَاقِ وَالْعَلَمِ دَافِعِ الْبَلَاءِ وَالْوَبَاءِ وَالْقَحْطِ وَالْمَرَضِ وَالْأَلَمِ",
+    "roman-english": "Allahumma salli 'ala sayyidina wa maulana Muhammadin sahibit taji wal mi'raji wal buraqi wal 'alam dafi'il balaa'i wal wabaa'i wal qahti wal maradi wal alam",
+    "urdu": "اے اللہ! ہمارے سردار اور مولا محمد صلی اللہ علیہ وسلم پر رحمت نازل فرما جو تاج، معراج، براق اور علم کے مالک ہیں، جو بلاؤں، وباؤں، قحط، بیماریوں اور درد کو دور کرنے والے ہیں۔",
+    "roman-urdu": "Aye Allah! Hamare sardar aur maula Muhammad (sallallahu alaihi wasallam) par rehmat nazeel farma jo taj, mi'raj, buraq aur alam ke malik hain, jo balaon, wabaon, qaht, bimariyon aur dard ko door karne wale hain."
+  },
+  {
+    "darood-no": 10,
+    "heading": "Durood-e-Muqaddas",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ النَّبِيِّ الْمُقَدَّسِ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin an-nabiyyi al-muqaddas wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم پر جو مقدس نبی ہیں، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) par jo muqaddas nabi hain, un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 11,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi wa sallim",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 12,
+    "heading": "Durood-e-Ghausia",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ الْمَحْبُوبِ الْمَحْمُودِ ذِي الْمَقَامِ الْمَحْمُودِ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin al-mahboobi al-mahmoodi zi al-maqami al-mahmoodi wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم پر جو محبوب اور محمود ہیں اور مقام محمود کے مالک ہیں، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) par jo mahboob aur mahmood hain aur maqam-e-mahmood ke malik hain, un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 13,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِهِ وَأَصْحَابِهِ أَجْمَعِينَ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa aalihi wa ashabihi ajma'een",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم، ان کی آل اور تمام صحابہ پر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam), un ki aal aur tamaam sahaba par rehmat nazeel farma."
+  },
+  {
+    "darood-no": 14,
+    "heading": "Durood-e-Nur",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى نُورِ الأَنْوَارِ وَسِرِّ الأَسْرَارِ وَتِرْيَاقِ الأَغْيَارِ سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala nooril anwari wa sirril asrari wa tiryaqil aghyari sayyidina Muhammadin wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! نوروں کے نور، اسرار کے سر اور غیروں کے تریاق، ہمارے سردار محمد صلی اللہ علیہ وسلم پر، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Nooroon ke noor, asraar ke sirr aur ghairon ke tiryaq, hamare sardar Muhammad (sallallahu alaihi wasallam) par, un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 15,
+    "heading": "Durood-e-Da’im",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ صَلَاةً دَائِمَةً بِدَوَامِ مُلْكِكَ",
+    "roman-english": "Allahumma salli 'ala Muhammadin salatan da’imatan bidawami mulkik",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم پر ایسی درود نازل فرما جو تیری بادشاہی کی دوام تک دائمی ہو۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) par aisi durood nazeel farma jo teri badshahi ki dawam tak daimi ho."
+  },
+  {
+    "darood-no": 16,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ كُلِّ شَيْءٍ فِي الْعَالَمِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi kulli shay’in fil 'alam",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر عالم کی ہر چیز کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par alam ki har cheez ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 17,
+    "heading": "Durood-e-Qurani",
+    "arabic": "اللَّهُمَّ صَلِّ وَسَلِّمْ عَلَى سَيِّدِنَا مُحَمَّدٍ الَّذِي أُنْزِلَ عَلَيْهِ الْقُرْآنُ وَعَلَى آلِهِ وَصَحْبِهِ أَجْمَعِينَ",
+    "roman-english": "Allahumma salli wa sallim 'ala sayyidina Muhammadin allazi unzila 'alayhi al-Qur’an wa 'ala aalihi wa sahbihi ajma'een",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم پر رحمت اور سلامتی نازل فرما جن پر قرآن نازل کیا گیا، اور ان کی آل اور تمام صحابہ پر۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) par rehmat aur salamti nazeel farma jin par Qur’an nazeel kiya gaya, aur un ki aal aur tamaam sahaba par."
+  },
+  {
+    "darood-no": 18,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi ma fis samawati wal ard",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر آسمانوں اور زمین میں موجود چیزوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par asmanon aur zameen mein maujood cheezon ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 19,
+    "heading": "Durood-e-Mustafa",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُصْطَفَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala Mustafa sayyidina Muhammadin wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم جو مصطفیٰ ہیں، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) jo Mustafa hain, un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 20,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ نُجُومِ السَّمَاءِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi nujoomis samaa",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر آسمان کے ستاروں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par asman ke sitaron ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 21,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ خَلْقِكَ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi khalqik",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر تیری مخلوق کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par teri makhlooq ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 22,
+    "heading": "Durood-e-Hazara",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ كُلِّ ذَرَّةٍ أَلْفَ مَرَّةٍ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi kulli zarratin alfa marratin",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر ہر ذرے کی تعداد کے ہزار گنا رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par har zarre ki tadaad ke hazar guna rehmat nazeel farma."
+  },
+  {
+    "darood-no": 23,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ أَنْفَاسِ الْخَلَائِقِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi anfasi al-khalaa'iq",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر مخلوقات کے سانسوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par makhlooqaat ke saanson ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 24,
+    "heading": "Durood-e-Mahi",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ سَيِّدِنَا الْمَاحِي لِلظُّلْمِ بِنُورِهِ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala Muhammadin sayyidina al-mahi lizzulmi binoorihi wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم پر جو اپنے نور سے ظلم کو مٹانے والے ہیں، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) par jo apne noor se zulm ko mitane wale hain, un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 25,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ قَطْرَاتِ الْمَطَرِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi qatrati al-matar",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر بارش کے قطروں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par barish ke qatron ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 26,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ أَوْرَاقِ الأَشْجَارِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi awraqi al-ashjar",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر درختوں کے پتوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par darakhton ke patton ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 27,
+    "heading": "Durood-e-Kausar",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ صَاحِبِ الْكَوْثَرِ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin sahibil kausar wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم پر جو کوثر کے مالک ہیں، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) par jo kausar ke malik hain, un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 28,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ حَرَكَاتِ الْخَلَائِقِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi harakaati al-khalaa'iq",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر مخلوقات کی حرکات کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par makhlooqaat ki harkaat ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 29,
+    "heading": "Durood-e-Roohi",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى رُوحِ مُحَمَّدٍ فِي الأَرْوَاحِ وَعَلَى جَسَدِهِ فِي الأَجْسَادِ وَعَلَى قَبْرِهِ فِي الْقُبُورِ",
+    "roman-english": "Allahumma salli 'ala roohi Muhammadin fil arwaahi wa 'ala jasadihi fil ajsaadi wa 'ala qabrihi fil quboor",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم کی روح پر ارواح میں، ان کے جسم پر اجسام میں اور ان کے قبر پر قبروں میں رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) ki rooh par arwaah mein, un ke jism par ajsaad mein aur un ke qabr par quboor mein rehmat nazeel farma."
+  },
+  {
+    "darood-no": 30,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ مَا أَحَاطَ بِهِ عِلْمُكَ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi ma ahaata bihi 'ilmuk",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر تیری علم کی وسعت کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par teri ilm ki wasa’t ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 31,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ مَا فِي عِلْمِكَ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi ma fi 'ilmik",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر تیری علم میں موجود چیزوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par teri ilm mein maujood cheezon ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 32,
+    "heading": "Durood-e-Salaam",
+    "arabic": "اللَّهُمَّ صَلِّ وَسَلِّمْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ بِعَدَدِ كُلِّ حَرْفٍ كُتِبَ",
+    "roman-english": "Allahumma salli wa sallim 'ala sayyidina Muhammadin wa 'ala aalihi wa sahbihi bi'adadi kulli harfin kutiba",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم، ان کی آل اور صحابہ پر ہر لکھے ہوئے حرف کی تعداد کے برابر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam), un ki aal aur sahaba par har likhe hue harf ki tadaad ke barabar rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 33,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْمَلَائِكَةِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-malaa'ika",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر فرشتوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par farishton ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 34,
+    "heading": "Durood-e-Azeem",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ الْعَظِيمِ الْقَدْرِ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin al-'azeemi al-qadri wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم پر جو عظیم القدر ہیں، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) par jo azeem al-qadr hain, un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 35,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الرِّيَاحِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi ar-riyahi",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر ہواؤں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par hawaon ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 36,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْبِحَارِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-bihaar",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر سمندروں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par samandron ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 37,
+    "heading": "Durood-e-Mehmood",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ الْمَحْمُودِ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin al-mahmoodi wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم پر جو محمود ہیں، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) par jo mahmood hain, un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 38,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْجِبَالِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-jibaal",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر پہاڑوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par pahaaron ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 39,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الشَّمْسِ وَالْقَمَرِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi ash-shamsi wal qamar",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر سورج اور چاند کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par sooraj aur chand ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 40,
+    "heading": "Durood-e-Nabi",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى نَبِيِّنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala nabiyyina Muhammadin wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے نبی محمد صلی اللہ علیہ وسلم، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare nabi Muhammad (sallallahu alaihi wasallam), un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 41,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الأَرْضِ وَالسَّمَاءِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-ardi was samaa",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر زمین اور آسمان کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par zameen aur asman ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 42,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ كُلِّ نَفْسٍ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi kulli nafsin",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر ہر نفس کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par har nafs ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 43,
+    "heading": "Durood-e-Mustafa",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُصْطَفَى وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala Mustafa wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! مصطفیٰ صلی اللہ علیہ وسلم، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Mustafa (sallallahu alaihi wasallam), un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 44,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْحَصَى وَالْحَجَرِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-hasa wal hajar",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر کنکروں اور پتھروں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par kankaron aur pathron ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 45,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الرَّمْلِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi ar-raml",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر ریت کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par reet ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 46,
+    "heading": "Durood-e-Naqshbandia",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ بِعَدَدِ مَا خَلَقْتَ مِنْ نَفْسٍ وَرُوحٍ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin wa 'ala aalihi wa sahbihi bi'adadi ma khalaqta min nafsin wa roohin",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم، ان کی آل اور صحابہ پر تیری بنائی ہوئی ہر نفس اور روح کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam), un ki aal aur sahaba par teri banayi hui har nafs aur rooh ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 47,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَيَّامِ وَاللَّيَالِي",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-ayyami wal layali",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر دنوں اور راتوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par dinon aur raaton ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 48,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ السِّنِينَ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi as-sineen",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر برسوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par barson ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 49,
+    "heading": "Durood-e-Habib",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى حَبِيبِكَ مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala habibika Muhammadin wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! اپنے محبوب محمد صلی اللہ علیہ وسلم، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Apne mahboob Muhammad (sallallahu alaihi wasallam), un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 50,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَشْيَاءِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-ashyaa",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر چیزوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par cheezon ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 51,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْحَيَوَانَاتِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-hayawanaat",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر جانوروں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par janwaron ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 52,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ النَّبَاتَاتِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi an-nabataat",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر پودوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par podon ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 53,
+    "heading": "Durood-e-Ahmad",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا أَحْمَدَ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala sayyidina Ahmadin wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار احمد صلی اللہ علیہ وسلم، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Ahmad (sallallahu alaihi wasallam), un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 54,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْمَخْلُوقَاتِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-makhlooqaat",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر مخلوقات کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par makhlooqaat ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 55,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَحْيَاءِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-ahyaa",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر جانداروں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par jandaaron ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 56,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَمْوَاتِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-amwaat",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر مردوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par murdon ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 57,
+    "heading": "Durood-e-Mahmood",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ الْمَحْمُودِ بِالْمَحْمُودِ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin al-mahmoodi bil mahmoodi wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم پر جو محمود بہ محمود ہیں، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) par jo mahmood ba mahmood hain, un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 58,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَصْوَاتِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-aswaat",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر آوازوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par awaazon ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 59,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَنْفَاسِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-anfaas",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر سانسوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par saanson ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 60,
+    "heading": "Durood-e-Tayyib",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ الطَّيِّبِ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin at-tayyibi wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم پر جو پاکیزہ ہیں، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) par jo pakiza hain, un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 61,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَفْعَالِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-af'aal",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر اعمال کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par amaal ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 62,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَحْدَاثِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-ahdaath",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر واقعات کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par waqiaat ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 63,
+    "heading": "Durood-e-Mustafa",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُصْطَفَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala Mustafa sayyidina Muhammadin wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم جو مصطفیٰ ہیں، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) jo Mustafa hain, un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 64,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الأَزْمِنَةِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-azmina",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر زمانوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par zamanon ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 65,
+    "heading": "Durood-e-Rahmat",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ رَحْمَةً لِلْعَالَمِينَ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin rahmatan lil 'alameen wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم پر جو عالمین کے لیے رحمت ہیں، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) par jo aalameen ke liye rahmat hain, un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 66,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ السَّحَابِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi as-sahaab",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر بادلوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par baadaloon ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 67,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الأَنْهَارِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-anhaar",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر نہروں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par nehron ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 68,
+    "heading": "Durood-e-Shifa",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ شِفَاءَ السُّقَمِ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin shifaa’as suqami wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم پر جو بیماریوں کا شفا ہیں، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) par jo bimariyon ka shifa hain, un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 69,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَشْجَارِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-ashjaar",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر درختوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par darakhton ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 70,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْحَيَاةِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-hayaat",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر زندگی کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par zindagi ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 71,
+    "heading": "Durood-e-Sadaqa",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ سَدَقَةً لِوَجْهِكَ الْكَرِيمِ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin sadaqatan liwajhika al-kareem wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم پر تیری عظیم ذات کے صدقے میں رحمت نازل فرما، اور ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) par teri azeem zaat ke sadqe mein rehmat nazeel farma, aur un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 72,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَوْرَاقِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-awraaq",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر پتوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par patton ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 73,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَمْطَارِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-amtaar",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر بارشوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par barishon ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 74,
+    "heading": "Durood-e-Ali",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَعَلَى عَلِيٍّ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin wa 'ala aalihi wa 'ala Aliyyin wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم، ان کی آل، علی رضی اللہ عنہ اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam), un ki aal, Ali (razi Allahu anhu) aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 75,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَحْجَارِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-ahjaar",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر پتھروں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par pathron ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 76,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْمَوْجُودَاتِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-mawjoodaat",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر موجودات کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par mawjoodaat ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 77,
+    "heading": "Durood-e-Fatima",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَعَلَى فَاطِمَةَ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin wa 'ala aalihi wa 'ala Fatimata wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم، ان کی آل، فاطمہ رضی اللہ عنہا اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam), un ki aal, Fatima (razi Allahu anha) aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 78,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَقْوَامِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-aqwaam",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر اقوام کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par aqwam ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 79,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَجْنَاسِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-ajnaas",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر اجناس کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par ajnaas ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 80,
+    "heading": "Durood-e-Mustafa",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُصْطَفَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala Mustafa sayyidina Muhammadin wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم جو مصطفیٰ ہیں، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) jo Mustafa hain, un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 81,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَرْوَاحِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-arwaah",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر ارواح کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par arwaah ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 82,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْجِنِّ وَالإِنْسِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-jinni wal ins",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر جنوں اور انسانوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par jinnon aur insaanon ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 83,
+    "heading": "Durood-e-Hasan",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَعَلَى حَسَنٍ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin wa 'ala aalihi wa 'ala Hasanin wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم، ان کی آل، حسن رضی اللہ عنہ اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam), un ki aal, Hasan (razi Allahu anhu) aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 84,
+    "heading": "Durood-e-Husain",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَعَلَى حُسَيْنٍ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin wa 'ala aalihi wa 'ala Husaynin wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم، ان کی آل، حسین رضی اللہ عنہ اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam), un ki aal, Husayn (razi Allahu anhu) aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 85,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَصْنَافِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-asnaaf",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر اصناف کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par asnaaf ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 86,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَعْمَالِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-a'maal",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر اعمال کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par amaal ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 87,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَفْكَارِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-afkaar",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر افکار کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par afkaar ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 88,
+    "heading": "Durood-e-Nabi",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى نَبِيِّنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala nabiyyina Muhammadin wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے نبی محمد صلی اللہ علیہ وسلم، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare nabi Muhammad (sallallahu alaihi wasallam), un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 89,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَحْوَالِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-ahwaal",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر حالات کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par halaat ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 90,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَشْكَالِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-ashkaal",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر اشکال کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par ashkaal ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 91,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَصْوَاتِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-aswaat",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر آوازوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par awaazon ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 92,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَنْوَارِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-anwaar",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر انوار کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par anwaar ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 93,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَسْرَارِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-asraar",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر اسرار کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par asraar ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 94,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَحْلَامِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-ahlaam",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر خوابوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par khwaabon ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 95,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَفْعَالِ الصَّالِحَةِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-af'aal as-saaliha",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر نیک اعمال کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par naik amaal ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 96,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَعْيَانِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-a'yaan",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر اعیان کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par a'yaan ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 97,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَشْيَاءِ الْمَخْلُوقَةِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-ashyaa al-makhlooqa",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر مخلوقہ چیزوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par makhlooqa cheezon ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 98,
+    "heading": "Durood Sharif",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ بِعَدَدِ الْأَحْيَاءِ وَالْأَمْوَاتِ",
+    "roman-english": "Allahumma salli 'ala Muhammadin wa 'ala aalihi bi'adadi al-ahyaa wal amwaat",
+    "urdu": "اے اللہ! محمد صلی اللہ علیہ وسلم اور ان کی آل پر زندگان اور مردوں کی تعداد کے برابر رحمت نازل فرما۔",
+    "roman-urdu": "Aye Allah! Muhammad (sallallahu alaihi wasallam) aur un ki aal par zindagan aur murdon ki tadaad ke barabar rehmat nazeel farma."
+  },
+  {
+    "darood-no": 99,
+    "heading": "Durood-e-Mustafa",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُصْطَفَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala Mustafa sayyidina Muhammadin wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم جو مصطفیٰ ہیں، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) jo Mustafa hain, un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  },
+  {
+    "darood-no": 100,
+    "heading": "Durood-e-Akmal",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ أَكْمَلِ الْخَلْقِ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+    "roman-english": "Allahumma salli 'ala sayyidina Muhammadin akmalil khalqi wa 'ala aalihi wa sahbihi wa sallim",
+    "urdu": "اے اللہ! ہمارے سردار محمد صلی اللہ علیہ وسلم پر جو مخلوقات میں سب سے کامل ہیں، ان کی آل اور صحابہ پر رحمت اور سلامتی نازل فرما۔",
+    "roman-urdu": "Aye Allah! Hamare sardar Muhammad (sallallahu alaihi wasallam) par jo makhlooqaat mein sab se kamil hain, un ki aal aur sahaba par rehmat aur salamti nazeel farma."
+  }
+]

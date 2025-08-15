@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "38640874799",
+    "firebase_url": "https://wilayatway786-default-rtdb.firebaseio.com",
+    "project_id": "wilayatway786",
+    "storage_bucket": "wilayatway786.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38640874799:android:12dbe94c648e1e7236ddda",
+        "android_client_info": {
+          "package_name": "com.example.wilayat_way_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA33qoKYvzh3GZjg1dixlCm4JjDkOpZWMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
