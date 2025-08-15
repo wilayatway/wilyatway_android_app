@@ -6,6 +6,8 @@ import 'package:wilayat_way_apk/screens/pages/shajra_nasab_screen.dart'
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/asma%20ul%20husna/asma_ul_husna_screen.dart';
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/asma%20ul%20husna/asma_ul_nabi.dart';
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/kashf%20o%20ilqa/kashf_o_muraqaba_screen.dart';
+import 'package:wilayat_way_apk/screens/pages/spiritualcontent/murshid%20gallery/murshid-gallery-screen.dart';
+import 'package:wilayat_way_apk/screens/pages/spiritualcontent/spiritual_glossory.dart';
 import 'package:wilayat_way_apk/screens/pages/task/wazifa/task_wazifa_screen.dart';
 import 'package:flutter_islamic_icons/flutter_islamic_icons.dart';
 
@@ -34,7 +36,7 @@ class SpiritualContentScreen extends StatelessWidget {
     'End Times & Imam Mahdi (a.s.)': [
       {'title': 'Future Prediction', 'icon': FlutterIslamicIcons.islam},
       {
-        'title': 'Army of Imam Mehdi (a.s.)',
+        'title': 'Army of Mehdi (a.s.)',
         'icon': FlutterIslamicIcons.solidCommunity,
       },
       {'title': 'Wilayat Timeline', 'icon': Icons.timeline},
@@ -188,6 +190,12 @@ class SpiritualContentScreen extends StatelessWidget {
         break;
       case 'Kashf o Muraqaba':
         screen = KashfMuraqabaScreen();
+        break;
+       case 'Murshid Gallery':
+        screen = MurshidGalleryPage();
+        break;
+       case 'Spiritual Glossary':
+        screen = SpiritualGlossaryPage();
         break;
       default:
         screen = PlaceholderScreen(title: title);
