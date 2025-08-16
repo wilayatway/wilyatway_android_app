@@ -7,36 +7,37 @@ import 'package:wilayat_way_apk/screens/pages/spiritualcontent/asma%20ul%20husna
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/asma%20ul%20husna/asma_ul_nabi.dart';
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/kashf%20o%20ilqa/kashf_o_muraqaba_screen.dart';
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/murshid%20gallery/murshid-gallery-screen.dart';
-import 'package:wilayat_way_apk/screens/pages/spiritualcontent/spiritual_glossory.dart';
+import 'package:wilayat_way_apk/screens/pages/spiritualcontent/spiritual_dream/spiritual_dreams.dart';
+import 'package:wilayat_way_apk/screens/pages/spiritualcontent/spiritual_glossory/spiritual_glossory.dart';
 import 'package:wilayat_way_apk/screens/pages/task/wazifa/task_wazifa_screen.dart';
 import 'package:flutter_islamic_icons/flutter_islamic_icons.dart';
 
 class SpiritualContentScreen extends StatelessWidget {
   final Map<String, List<Map<String, dynamic>>> spiritualSections = {
-    // 'Last Used': [
-    // ],
-    // 'Spiritual Knowledge & Insights': [
-    //   {'title': 'Ilm-e-Marifat', 'icon': Icons.self_improvement},
-    //   {'title': 'Irfani Tafseer', 'icon': Icons.menu_book},
-    //   {'title': 'Malfoozat-e-Murshid', 'icon': Icons.format_quote},
-    //   {'title': 'Ilm-ul-Wajood', 'icon': Icons.travel_explore},
-    //   {'title': 'Secrets of Wilayah', 'icon': Icons.lock_open},
-    //   {'title': 'Haalaat-e-Aarifeen', 'icon': Icons.people},
-    // ],
-    // 'Practical Spirituality': [
-    //   {'title': 'Spiritual Posts', 'icon': Icons.post_add},
-    //   {'title': 'Tasks', 'icon': Icons.repeat},
-    //   {'title': 'Ruhani Ilaaj', 'icon': Icons.healing},
-    //   {'title': 'Muraqaba', 'icon': Icons.spa},
-    //   {'title': 'Tazkiyah', 'icon': Icons.filter_vintage},
-    //   {'title': 'Istikhara Guide', 'icon': Icons.help},
-    //   {'title': 'Spiritual-Experiance/Maamlat', 'icon': Icons.post_add},
-    //   {'title': 'Tasks/Wazifa', 'icon': Icons.repeat},
-    // ],
+    'Last Used': [
+    ],
+    'Spiritual Knowledge & Insights': [
+      {'title': 'Ilm-e-Marifat', 'icon': Icons.self_improvement},
+      {'title': 'Irfani Tafseer', 'icon': Icons.menu_book},
+      {'title': 'Malfoozat-e-Murshid', 'icon': Icons.format_quote},
+      {'title': 'Ilm-ul-Wajood', 'icon': Icons.travel_explore},
+      {'title': 'Secrets of Wilayah', 'icon': Icons.lock_open},
+      {'title': 'Haalaat-e-Aarifeen', 'icon': Icons.people},
+    ],
+    'Practical Spirituality': [
+      {'title': 'Spiritual Posts', 'icon': Icons.post_add},
+      {'title': 'Tasks', 'icon': Icons.repeat},
+      {'title': 'Ruhani Ilaaj', 'icon': Icons.healing},
+      {'title': 'Muraqaba', 'icon': Icons.spa},
+      {'title': 'Tazkiyah', 'icon': Icons.filter_vintage},
+      {'title': 'Istikhara Guide', 'icon': Icons.help},
+      {'title': 'Spiritual-Experiance/Maamlat', 'icon': Icons.post_add},
+      {'title': 'Tasks/Wazifa', 'icon': Icons.repeat},
+    ],
     'End Times & Imam Mahdi (a.s.)': [
       {'title': 'Future Prediction', 'icon': FlutterIslamicIcons.islam},
       {
-        'title': 'Army of Mehdi (a.s.)',
+        'title': 'Army of Imam Mehdi (a.s.)',
         'icon': FlutterIslamicIcons.solidCommunity,
       },
       {'title': 'Wilayat Timeline', 'icon': Icons.timeline},
@@ -75,94 +76,30 @@ class SpiritualContentScreen extends StatelessWidget {
           Positioned.fill(
             child: Image.asset('assets/images/bg2.png', fit: BoxFit.cover),
           ),
-          Container(
-            padding: const EdgeInsets.only(
-              top: kToolbarHeight + 24,
-              left: 16,
-              right: 16,
-              bottom: 16,
-            ),
-            child: SingleChildScrollView(
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children:
-                    spiritualSections.entries.map((section) {
-                      return Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          Text(
-                            section.key,
-                            style: const TextStyle(
-                              fontSize: 22,
-                              color: Color.fromARGB(255, 246, 232, 211),
-                              fontWeight: FontWeight.bold,
-                            ),
-                          ),
-                          GridView.builder(
-                            shrinkWrap: true,
-                            physics: const NeverScrollableScrollPhysics(),
-                            itemCount: section.value.length,
-                            gridDelegate:
-                                const SliverGridDelegateWithFixedCrossAxisCount(
-                                  crossAxisCount: 4,
-                                  crossAxisSpacing: 8,
-                                  mainAxisSpacing: 8,
-                                  childAspectRatio: 0.7,
-                                ),
-                            itemBuilder: (context, index) {
-                              final item = section.value[index];
-                              return GestureDetector(
-                                onTap: () {
-                                  navigateToScreen(context, item['title']);
-                                },
-                                child: Column(
-                                  mainAxisSize: MainAxisSize.min,
-                                  children: [
-                                    SizedBox(
-                                      width: 60,
-                                      // height: 60,
-                                      // decoration: BoxDecoration(
-                                      //   color: const Color.fromARGB(255, 243, 231, 231).withOpacity(0.8),
-                                      //   borderRadius: BorderRadius.circular(16),
-                                      //   boxShadow: [
-                                      //     BoxShadow(
-                                      //       color: Colors.black26,
-                                      //       blurRadius: 4,
-                                      //       offset: Offset(2, 2),
-                                      //     ),
-                                      //   ],
-                                      // ),
-                                      child: Icon(
-                                        item['icon'],
-                                        size: 50,
-                                        color: const Color.fromARGB(
-                                          255,
-                                          33,
-                                          33,
-                                          33,
-                                        ),
-                                      ),
-                                    ),
-                                    const SizedBox(height: 8),
-                                    Text(
-                                      item['title'],
-                                      style: const TextStyle(
-                                        color: Colors.black,
-                                        fontSize: 14,
-                                      ),
-                                      textAlign: TextAlign.center,
-                                    ),
-                                  ],
-                                ),
-                              );
-                            },
-                          ),
-                          const SizedBox(height: 50),
-                        ],
+          CustomScrollView(
+            slivers: [
+              SliverPadding(
+                padding: const EdgeInsets.only(
+                  top: kToolbarHeight + 24,
+                  left: 16,
+                  right: 16,
+                  bottom: 16,
+                ),
+                sliver: SliverList(
+                  delegate: SliverChildBuilderDelegate(
+                    (context, sectionIdx) {
+                      final section = spiritualSections.entries.elementAt(sectionIdx);
+                      return _SectionWidget(
+                        title: section.key,
+                        items: section.value,
+                        onTap: (item) => navigateToScreen(context, item['title']),
                       );
-                    }).toList(),
+                    },
+                    childCount: spiritualSections.length,
+                  ),
+                ),
               ),
-            ),
+            ],
           ),
         ],
       ),
@@ -171,7 +108,6 @@ class SpiritualContentScreen extends StatelessWidget {
 
   void navigateToScreen(BuildContext context, String title) {
     Widget screen;
-
     switch (title) {
       case 'Spiritual-Experiance/Maamlat':
         screen = MaamlaatListScreen();
@@ -191,17 +127,111 @@ class SpiritualContentScreen extends StatelessWidget {
       case 'Kashf o Muraqaba':
         screen = KashfMuraqabaScreen();
         break;
-       case 'Murshid Gallery':
+      case 'Murshid Gallery':
         screen = MurshidGalleryPage();
         break;
-       case 'Spiritual Glossary':
+      case 'Spiritual Glossary':
         screen = SpiritualGlossaryPage();
+        break;
+      case 'Spiritual Dreams':
+        screen = SpiritualDreamsScreen();
         break;
       default:
         screen = PlaceholderScreen(title: title);
     }
-
     Navigator.push(context, MaterialPageRoute(builder: (context) => screen));
+  }
+}
+
+class _SectionWidget extends StatelessWidget {
+  final String title;
+  final List<Map<String, dynamic>> items;
+  final void Function(Map<String, dynamic>) onTap;
+  const _SectionWidget({required this.title, required this.items, required this.onTap});
+
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Text(
+          title,
+          style: const TextStyle(
+            fontSize: 22,
+            color: Color.fromARGB(255, 246, 232, 211),
+            fontWeight: FontWeight.bold,
+          ),
+        ),
+        const SizedBox(height: 8),
+        LayoutBuilder(
+          builder: (context, constraints) {
+            int crossAxisCount = (constraints.maxWidth / 120).floor().clamp(3, 6); // Minimum 3 in a row
+            return GridView.builder(
+              shrinkWrap: true,
+              physics: const NeverScrollableScrollPhysics(),
+              itemCount: items.length,
+              gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                crossAxisCount: crossAxisCount,
+                crossAxisSpacing: 8,
+                mainAxisSpacing: 8,
+                childAspectRatio: 0.75,
+              ),
+              itemBuilder: (context, index) {
+                final item = items[index];
+                return _GridItem(
+                  icon: item['icon'],
+                  title: item['title'],
+                  onTap: () => onTap(item),
+                );
+              },
+            );
+          },
+        ),
+        const SizedBox(height: 40),
+        Divider(color: Colors.white24, thickness: 1),
+        const SizedBox(height: 10),
+      ],
+    );
+  }
+}
+
+class _GridItem extends StatelessWidget {
+  final IconData icon;
+  final String title;
+  final VoidCallback onTap;
+  const _GridItem({required this.icon, required this.title, required this.onTap});
+
+  @override
+  Widget build(BuildContext context) {
+    return GestureDetector(
+      onTap: onTap,
+      child: Column(
+        mainAxisSize: MainAxisSize.max,
+        children: [
+          SizedBox(
+            width: 60,
+            child: Icon(
+              icon,
+              size: 50,
+              color: const Color.fromARGB(255, 33, 33, 33),
+            ),
+          ),
+          const SizedBox(height: 8),
+          Flexible(
+            child: Text(
+              title,
+              style: const TextStyle(
+                color: Colors.black,
+                fontSize: 14,
+              ),
+              textAlign: TextAlign.center,
+              maxLines: 2,
+              overflow: TextOverflow.ellipsis,
+            ),
+          ),
+        ],
+      ),
+    );
   }
 }
 

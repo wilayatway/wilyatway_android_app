@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:wilayat_way_apk/screens/pages/spiritualcontent/spiritual_content_screen.dart';
+import 'package:wilayat_way_apk/screens/dashboard_screen.dart';
+// import 'package:wilayat_way_apk/screens/pages/spiritualcontent/spiritual_content_screen.dart';
 import 'package:wilayat_way_apk/services/notification_service.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart'; // Import the Firebase options file
@@ -30,8 +31,8 @@ class WilayatWayApp extends StatelessWidget {
     return MaterialApp(
       title: 'Wilayat Way',
       theme: ThemeData(primarySwatch: Colors.teal),
-      // home: const DashboardScreen(),
-      home: SpiritualContentScreen(),
+      home: const DashboardScreen(),
+      // home: SpiritualContentScreen(),
       debugShowCheckedModeBanner: false, // Recommended to remove debug banner
     );
   }

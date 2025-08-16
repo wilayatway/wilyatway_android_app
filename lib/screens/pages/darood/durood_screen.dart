@@ -1,8 +1,8 @@
-import 'dart:convert';
 import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 
 class Durood {
   final int daroodNo;
@@ -61,12 +61,15 @@ class _DuroodScreenState extends State<DuroodScreen> {
   }
 
   Future<void> loadDuroods() async {
-    final String response = await DefaultAssetBundle.of(context)
-        .loadString('assets/collection/daroods/100-darood.json');
-    final List<dynamic> data = jsonDecode(response);
-    setState(() {
-      duroods = data.map((json) => Durood.fromJson(json)).toList();
-    });
+    try {
+      final QuerySnapshot snapshot = await FirebaseFirestore.instance.collection('daroods').orderBy('darood-no').get();
+      setState(() {
+        duroods = snapshot.docs.map((doc) => Durood.fromJson(doc.data() as Map<String, dynamic>)).toList();
+      });
+    } catch (e) {
+      // Optionally show error
+      debugPrint('Error fetching daroods: $e');
+    }
   }
 
   Future<void> _restoreScrollPosition() async {

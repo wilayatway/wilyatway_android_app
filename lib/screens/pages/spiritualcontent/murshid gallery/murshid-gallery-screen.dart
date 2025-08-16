@@ -3,7 +3,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 
 class MurshidGalleryPage extends StatefulWidget {
-  const MurshidGalleryPage({Key? key}) : super(key: key);
+  const MurshidGalleryPage({super.key});
 
   @override
   State<MurshidGalleryPage> createState() => _MurshidGalleryPageState();
@@ -257,10 +257,10 @@ class AlbumDetailPage extends StatelessWidget {
   final List<Map<String, dynamic>> images;
 
   const AlbumDetailPage({
-    Key? key,
+    super.key,
     required this.category,
     required this.images,
-  }) : super(key: key);
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -325,10 +325,10 @@ class FullScreenImageViewer extends StatefulWidget {
   final int initialIndex;
 
   const FullScreenImageViewer({
-    Key? key,
+    super.key,
     required this.images,
     required this.initialIndex,
-  }) : super(key: key);
+  });
 
   @override
   State<FullScreenImageViewer> createState() => _FullScreenImageViewerState();
