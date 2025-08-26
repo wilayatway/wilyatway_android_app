@@ -6,9 +6,11 @@ import 'package:wilayat_way_apk/screens/pages/darood/durood_screen.dart';
 import 'package:wilayat_way_apk/screens/pages/quran/quran_screen.dart';
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/spiritual_content_screen.dart';
 import 'package:wilayat_way_apk/screens/pages/videos/video_list_screen.dart';
+import 'package:wilayat_way_apk/screens/popups/darood_popup.dart';
+import 'package:wilayat_way_apk/auth/auth_screen.dart';
+import 'package:wilayat_way_apk/auth/user_avatar_name.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:wilayat_way_apk/screens/popups/darood_popup.dart'
-    show DaroodPopup;
+import 'package:firebase_auth/firebase_auth.dart';
 
 class DashboardScreen extends StatelessWidget {
   const DashboardScreen({super.key});
@@ -42,32 +44,58 @@ class DashboardScreen extends StatelessWidget {
                           children: [
                             SizedBox(height: isSmall ? 20 : 40),
                             // Header Section
+                            // Top row: icon and user name
                             Padding(
-                              padding: EdgeInsets.only(top: isSmall ? 10 : 20.0),
-                              child: Column(
+                              padding: EdgeInsets.only(top: isSmall ? 10 : 20.0, left: 8, right: 8),
+                              child: Row(
+                                mainAxisAlignment: MainAxisAlignment.start,
                                 children: [
-                                  Text(
-                                    '𝕎𝕚𝕝𝕒𝕪𝕒𝕥 𝕎𝕒𝕪',
-                                    style: TextStyle(
-                                      fontSize: isSmall ? 28 : 40,
-                                      fontWeight: FontWeight.bold,
-                                      color: Colors.black87,
-                                      letterSpacing: 1.5,
-                                    ),
+                                  IconButton(
+                                    icon: const Icon(Icons.person, color: Colors.black87, size: 32),
+                                    onPressed: () {
+                                      final user = FirebaseAuth.instance.currentUser;
+                                      if (user != null) {
+                                        Navigator.pushNamed(context, '/user_details');
+                                      } else {
+                                        Navigator.push(
+                                          context,
+                                          MaterialPageRoute(
+                                            builder: (_) => const AuthScreen(),
+                                          ),
+                                        );
+                                      }
+                                    },
                                   ),
-                                  SizedBox(height: isSmall ? 6 : 10),
-                                  Text(
-                                    'Welcome to Raah e Haq',
-                                    style: TextStyle(
-                                      fontSize: isSmall ? 16 : 24,
-                                      fontWeight: FontWeight.w600,
-                                      fontStyle: FontStyle.italic,
-                                      color: Colors.black87,
-                                      letterSpacing: 1.2,
-                                    ),
-                                  ),
+                                  const UserAvatarName(),
                                 ],
                               ),
+                            ),
+                            // Space below icon/name
+                            SizedBox(height: isSmall ? 10 : 24),
+                            // Centered heading and subtitle
+                            Column(
+                              children: [
+                                Text(
+                                  '𝕎𝕚𝕝𝕒𝕪𝕒𝕥 𝕎𝕒𝕪',
+                                  style: TextStyle(
+                                    fontSize: isSmall ? 28 : 40,
+                                    fontWeight: FontWeight.bold,
+                                    color: Colors.black87,
+                                    letterSpacing: 1.5,
+                                  ),
+                                ),
+                                SizedBox(height: isSmall ? 6 : 10),
+                                Text(
+                                  'Welcome to Raah e Haq',
+                                  style: TextStyle(
+                                    fontSize: isSmall ? 16 : 24,
+                                    fontWeight: FontWeight.w600,
+                                    fontStyle: FontStyle.italic,
+                                    color: Colors.black87,
+                                    letterSpacing: 1.2,
+                                  ),
+                                ),
+                              ],
                             ),
                             SizedBox(height: isSmall ? 20 : 40),
 
@@ -285,14 +313,7 @@ class DashboardScreen extends StatelessWidget {
     );
   }
 
-  static void _launchURL(String url) async {
-    final uri = Uri.parse(url);
-    if (await canLaunchUrl(uri)) {
-      await launchUrl(uri, mode: LaunchMode.externalApplication);
-    } else {
-      throw 'Could not launch $url';
-    }
-  }
+  // _launchURL moved outside the class below
 }
 
 class _DashboardCard extends StatelessWidget {
@@ -320,7 +341,7 @@ class _DashboardCard extends StatelessWidget {
                 child: Image.asset(
                   imagePath,
                   height: isSmall ? 40 : 60,
-                  color: const Color.fromARGB(255, 190, 162, 0),// Glossy gold color
+                  color: const Color.fromARGB(255, 0, 0, 0),// Glossy gold color
                 ),
               ),
               const SizedBox(height: 10),
@@ -351,4 +372,14 @@ class _DashboardCardData {
   final String image;
   final VoidCallback onTap;
   _DashboardCardData({required this.label, required this.image, required this.onTap});
+}
+
+// Move _launchURL outside the class to avoid static method error
+void _launchURL(String url) async {
+  final uri = Uri.parse(url);
+  if (await canLaunch(uri.toString())) {
+    await launch(uri.toString());
+  } else {
+    throw 'Could not launch $url';
+  }
 }

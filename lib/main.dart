@@ -4,6 +4,8 @@ import 'package:wilayat_way_apk/screens/dashboard_screen.dart';
 import 'package:wilayat_way_apk/services/notification_service.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart'; // Import the Firebase options file
+import 'package:wilayat_way_apk/screens/user_details_screen.dart';
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   try {
@@ -32,8 +34,10 @@ class WilayatWayApp extends StatelessWidget {
       title: 'Wilayat Way',
       theme: ThemeData(primarySwatch: Colors.teal),
       home: const DashboardScreen(),
-      // home: SpiritualContentScreen(),
-      debugShowCheckedModeBanner: false, // Recommended to remove debug banner
+      debugShowCheckedModeBanner: false,
+      routes: {
+        '/user_details': (context) => const UserDetailsScreen(),
+      },
     );
   }
 }
