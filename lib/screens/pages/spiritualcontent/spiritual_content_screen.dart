@@ -14,25 +14,26 @@ import 'package:flutter_islamic_icons/flutter_islamic_icons.dart';
 
 class SpiritualContentScreen extends StatelessWidget {
   final Map<String, List<Map<String, dynamic>>> spiritualSections = {
-    'Last Used': [
-    ],
+    // 'Last Used': [
+    // ],
     'Spiritual Knowledge & Insights': [
       {'title': 'Ilm-e-Marifat', 'icon': Icons.self_improvement},
-      {'title': 'Irfani Tafseer', 'icon': Icons.menu_book},
-      {'title': 'Malfoozat-e-Murshid', 'icon': Icons.format_quote},
+      {'title': 'Ilm-e-Tareeqat', 'icon': Icons.travel_explore},
       {'title': 'Ilm-ul-Wajood', 'icon': Icons.travel_explore},
+      {'title': 'Irfani Tafseer', 'icon': Icons.menu_book},
       {'title': 'Secrets of Wilayah', 'icon': Icons.lock_open},
       {'title': 'Haalaat-e-Aarifeen', 'icon': Icons.people},
     ],
     'Practical Spirituality': [
       {'title': 'Spiritual Posts', 'icon': Icons.post_add},
-      {'title': 'Tasks', 'icon': Icons.repeat},
-      {'title': 'Ruhani Ilaaj', 'icon': Icons.healing},
       {'title': 'Muraqaba', 'icon': Icons.spa},
       {'title': 'Tazkiyah', 'icon': Icons.filter_vintage},
       {'title': 'Istikhara Guide', 'icon': Icons.help},
-      {'title': 'Spiritual-Experiance/Maamlat', 'icon': Icons.post_add},
+      {'title': 'Ruhani Ilaaj', 'icon': Icons.healing}
+    ],
+    'For Murideen' : [
       {'title': 'Tasks/Wazifa', 'icon': Icons.repeat},
+      {'title': 'Spiritual-Experiance/Maamlat', 'icon': Icons.post_add},
     ],
     'End Times & Imam Mahdi (a.s.)': [
       {'title': 'Future Prediction', 'icon': FlutterIslamicIcons.islam},
@@ -42,6 +43,16 @@ class SpiritualContentScreen extends StatelessWidget {
       },
       {'title': 'Wilayat Timeline', 'icon': Icons.timeline},
     ],
+    'Murshid': [
+      {'title': 'Tarruf e Murshid', 'icon': Icons.info},
+      {'title': 'Malfoozat-e-Murshid', 'icon': Icons.format_quote},
+      {'title': 'Murshid\'s Teachings', 'icon': Icons.book},
+      {'title': 'Murshid Gallery', 'icon': Icons.photo_library},
+      {'title': 'Shajra Pak', 'icon': Icons.account_tree},
+    ],
+        'Science and Tasawwuf': [
+      {'title': 'Affirmations', 'icon': FlutterIslamicIcons.islam},
+    ],
     'Extras & Resources': [
       {'title': 'Asma-ul-Husna', 'icon': FlutterIslamicIcons.allah},
       {'title': 'Asma-e-Nabi', 'icon': FlutterIslamicIcons.mohammad},
@@ -50,9 +61,9 @@ class SpiritualContentScreen extends StatelessWidget {
         'icon': FlutterIslamicIcons.solidPrayingPerson,
       },
       {'title': 'Ilham o Ilqa', 'icon': FlutterIslamicIcons.prayingPerson},
-      {'title': 'Shajra', 'icon': Icons.account_tree},
+
       {'title': 'Spiritual Dreams', 'icon': Icons.nights_stay},
-      {'title': 'Murshid Gallery', 'icon': Icons.photo_library},
+
       {'title': 'Irfani Books', 'icon': Icons.book},
       {'title': 'Spiritual Glossary', 'icon': Icons.menu_book_outlined},
     ],

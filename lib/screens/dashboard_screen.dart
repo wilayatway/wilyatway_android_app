@@ -265,12 +265,12 @@ class DashboardScreen extends StatelessWidget {
                             );
                           },
                           child: const Text(
-                            'Donatations',
-                            style: TextStyle(
-                              fontSize: 18,
-                              color: Color.fromARGB(255, 7, 32, 53),
-                              fontWeight: FontWeight.w600,
-                            ),
+                            '.',
+                            // style: TextStyle(
+                            //   fontSize: 18,
+                            //   color: Color.fromARGB(255, 7, 32, 53),
+                            //   fontWeight: FontWeight.w600,
+                            // ),
                           ),
                         ),
                       ],

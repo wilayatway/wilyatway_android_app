@@ -149,9 +149,7 @@ class _KashfMuraqabaScreenState extends State<KashfMuraqabaScreen> {
         text("- Wudu (Ablution): Stay in a state of purity."),
         text("- Tahajjud or Nafil: At least 2 rakats; ideally, 12 rakats."),
         text("- Durood/Salawat: Recite any salawat at least 11 times."),
-        text(
-          "- Remember Mursid: Recite Ya Khawja MOhammed Shah Makki Al Madad / Your Murshid Name at least 7 times.",
-        ),
+        text("- Remember Murshid: Recite Ya Khawja Mohammed Shah Makki Al Madad / Your Murshid Name at least 7 times."),
 
         text("\n🧠 Spiritual Intention (Niyyah)"),
         text("- Sit for the pleasure of Allah ﷻ."),
@@ -186,23 +184,23 @@ class _KashfMuraqabaScreenState extends State<KashfMuraqabaScreen> {
         text("- Let go of thoughts."),
         text("- Focus: Breath, Sheikh, silence."),
 
-        text("\n🌀 Realms Journey:"),
+        text("\n🌀 Realms Journey (Aalameen):"),
         buildImageGrid([
           "https://i.ibb.co/X1Bq9sC/roohparwaz.jpg",
           "https://i.ibb.co/0VG3HzLt/spiritual.jpg",
         ]),
+  text("- Aalam-e-Nasoot: The physical/material world (human experience)."),
+  text("- Aalam-e-Malakoot: The angelic realm, world of souls and light."),
+  text("- Aalam-e-Jabaroot: The world of divine power and authority."),
+  text("- Aalam-e-Lahoot: The world of divine presence and unity."),
+  text("- Aalam-e-Hahoot: The highest realm, absolute divine mystery (beyond comprehension)."),
 
-        text("- Aalam-e-Lahoot: Unity with Divine."),
-        text("- Aalam-e-Mithal: Imagery, visions."),
         buildImageGrid(["https://i.ibb.co/YF8stzwG/universe.jpg"]),
-        text("- Aalam-e-Malakut: Angels, light."),
-        text("- Aalam-e-Jabarut: Divine powers."),
-        text("- Aalam-e-Lahoot: Unity with Divine."),
 
         text("\n🕜 Duration: Start 10–15 mins; increase to 30–60."),
 
         text("\n📝 Afterward:"),
-        text("- Slowly Open your eyes."),
+        text("- Slowly open your eyes."),
         text("- Reflect, write down experiences."),
 
         text("\n🌺 Close Session:"),
@@ -222,9 +220,7 @@ class _KashfMuraqabaScreenState extends State<KashfMuraqabaScreen> {
         text("- Wuzu mein rehna zaroori hai."),
         text("- Tahajjud ya kam az kam 2 nafil (behtar 12 rakats)."),
         text("- Durood Shareef kam az kam 11 martaba."),
-        text(
-          "- Murshid ka tasavvur: 'Ya Khawja Muhammad Shah Makki Al Madad' ya apne Murshid ka naam 7 martaba.",
-        ),
+        text("- Murshid ka tasavvur: 'Ya Khawja Muhammad Shah Makki Al Madad' ya apne Murshid ka naam 7 martaba."),
 
         text("\n🧠 Niyyat"),
         text("- Allah ki raza ke liye baithna."),
@@ -259,21 +255,21 @@ class _KashfMuraqabaScreenState extends State<KashfMuraqabaScreen> {
         text("- Fikr se nijaat."),
         text("- Bas saans, Sheikh aur khamoshi par tawajju."),
 
-        text("\n🌀 Aalam ka Safar"),
+        text("\n🌀 Aalameen ka Safar:"),
         buildImageGrid([
           "https://i.ibb.co/X1Bq9sC/roohparwaz.jpg",
           "https://i.ibb.co/0VG3HzLt/spiritual.jpg",
         ]),
-        text("- Aalam-e-Lahoot: Allah se wusool."),
-        text("- Aalam-e-Mithal: Tasaveer aur manazir."),
+  text("- Aalam-e-Nasoot: Insani aur maadi duniya."),
+  text("- Aalam-e-Malakoot: Roohani aur farishton ki duniya."),
+  text("- Aalam-e-Jabaroot: Rabbani quwatein aur hukumat."),
+  text("- Aalam-e-Lahoot: Wahdat aur Allah ki huzoori."),
+  text("- Aalam-e-Hahoot: Sab se aala, Allah ki zaat ka raaz."),
+
         buildImageGrid(["https://i.ibb.co/YF8stzwG/universe.jpg"]),
-        text("- Aalam-e-Malakut: Farishte aur noor."),
-        text("- Aalam-e-Jabarut: Rabbani quwatein."),
 
         text("\n🕜 Waqt"),
-        text(
-          "- 10-15 minute se shuru karain; badhakar 30–60 minute tak le jayein.",
-        ),
+        text("- 10-15 minute se shuru karain; badhakar 30–60 minute tak le jayein."),
 
         text("\n📝 Baad mein"),
         text("- Aankhain ahista kholain."),
@@ -296,9 +292,7 @@ class _KashfMuraqabaScreenState extends State<KashfMuraqabaScreen> {
         text("- وضو میں رہنا ضروری ہے۔"),
         text("- تہجد یا کم از کم ۲ نفل (بہتر ۱۲ رکعتیں)"),
         text("- درود شریف کم از کم ۱۱ مرتبہ۔"),
-        text(
-          "- مرشد کا تصور: 'یا خواجہ محمد شاہ مکی مدد' یا اپنے مرشد کا نام ۷ مرتبہ۔",
-        ),
+        text("- مرشد کا تصور: 'یا خواجہ محمد شاہ مکی مدد' یا اپنے مرشد کا نام ۷ مرتبہ۔"),
 
         text("\n🧠 نیت"),
         text("- اللہ کی رضا کے لیے بیٹھنا۔"),
@@ -333,16 +327,18 @@ class _KashfMuraqabaScreenState extends State<KashfMuraqabaScreen> {
         text("- خیالات سے نجات۔"),
         text("- توجہ: سانس، شیخ، خاموشی۔"),
 
-        text("\n🌀 عوالم کا سفر"),
+        text("\n🌀 عوالم (Aalameen) کا سفر:"),
         buildImageGrid([
           "https://i.ibb.co/X1Bq9sC/roohparwaz.jpg",
           "https://i.ibb.co/0VG3HzLt/spiritual.jpg",
         ]),
-        text("- عالمِ لاہوت: اللہ سے وصال۔"),
-        text("- عالمِ مثال: تصویریں، مناظر۔"),
+  text("- عالمِ ناسوت: مادی و انسانی دنیا۔"),
+  text("- عالمِ ملکوت: فرشتے، ارواح و نورانی مخلوق۔"),
+  text("- عالمِ جبروت: ربانی طاقتیں و اقتدار۔"),
+  text("- عالمِ لاہوت: اللہ کی حضوری و وحدت۔"),
+  text("- عالمِ ہاہوت: سب سے اعلیٰ، اللہ کی ذات کا راز۔"),
+
         buildImageGrid(["https://i.ibb.co/YF8stzwG/universe.jpg"]),
-        text("- عالمِ ملکوت: فرشتے، نورانی مخلوق۔"),
-        text("- عالمِ جبروت: ربانی طاقتیں۔"),
 
         text("\n🕜 مدت"),
         text("- ابتدا میں 10-15 منٹ؛ پھر بڑھا کر 30–60 منٹ۔"),
