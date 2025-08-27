@@ -40,8 +40,63 @@ class UserDetailsScreen extends StatelessWidget {
                 Text('Who Are You: ${data['whoAreYou'] ?? ''}', style: const TextStyle(fontSize: 18)),
                 const SizedBox(height: 12),
                 Text('Gender: ${data['gender'] ?? ''}', style: const TextStyle(fontSize: 18)),
-                const SizedBox(height: 12),
-                // Password removed for anonymous authentication
+                const SizedBox(height: 24),
+                Row(
+                  children: [
+                    ElevatedButton(
+                      onPressed: () async {
+                        await FirebaseAuth.instance.signOut();
+                        if (context.mounted) {
+                          Navigator.of(context).popUntil((route) => route.isFirst);
+                        }
+                      },
+                      child: const Text('Logout'),
+                    ),
+                    const SizedBox(width: 16),
+                    ElevatedButton(
+                      style: ElevatedButton.styleFrom(backgroundColor: Colors.red),
+                      onPressed: () async {
+                        final confirm = await showDialog<bool>(
+                          context: context,
+                          builder: (ctx) => AlertDialog(
+                            title: const Text('Delete Account'),
+                            content: const Text('Are you sure you want to delete your account? This cannot be undone.'),
+                            actions: [
+                              TextButton(
+                                onPressed: () => Navigator.of(ctx).pop(false),
+                                child: const Text('Cancel'),
+                              ),
+                              TextButton(
+                                onPressed: () => Navigator.of(ctx).pop(true),
+                                child: const Text('Delete', style: TextStyle(color: Colors.red)),
+                              ),
+                            ],
+                          ),
+                        );
+                        if (confirm == true) {
+                          try {
+                            final user = FirebaseAuth.instance.currentUser;
+                            if (user != null) {
+                              await FirebaseFirestore.instance.collection('users').doc(user.uid).delete();
+                              await user.delete();
+                              await FirebaseAuth.instance.signOut();
+                              if (context.mounted) {
+                                Navigator.of(context).popUntil((route) => route.isFirst);
+                              }
+                            }
+                          } catch (e) {
+                            if (context.mounted) {
+                              ScaffoldMessenger.of(context).showSnackBar(
+                                SnackBar(content: Text('Failed to delete account: $e')),
+                              );
+                            }
+                          }
+                        }
+                      },
+                      child: const Text('Delete Account'),
+                    ),
+                  ],
+                ),
               ],
             ),
           );

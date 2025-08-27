@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:wilayat_way_apk/screens/pages/experiences/maamlaat_list_screen.dart'
-    show MaamlaatListScreen;
-import 'package:wilayat_way_apk/screens/pages/shajra_nasab_screen.dart'
-    show ShajraNasabScreen;
+import 'package:wilayat_way_apk/screens/pages/spiritualcontent/experiences/maamlaat_list_screen.dart';
+import 'package:wilayat_way_apk/screens/pages/shajra_nasab_screen.dart';
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/asma%20ul%20husna/asma_ul_husna_screen.dart';
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/asma%20ul%20husna/asma_ul_nabi.dart';
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/kashf%20o%20ilqa/kashf_o_muraqaba_screen.dart';
@@ -11,6 +9,134 @@ import 'package:wilayat_way_apk/screens/pages/spiritualcontent/spiritual_dream/s
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/spiritual_glossory/spiritual_glossory.dart';
 import 'package:wilayat_way_apk/screens/pages/task/wazifa/task_wazifa_screen.dart';
 import 'package:flutter_islamic_icons/flutter_islamic_icons.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+// Murideen grid widget for access control
+class _MurideenGrid extends StatelessWidget {
+  final List<Map<String, dynamic>> items;
+  final void Function(Map<String, dynamic>) onTap;
+  const _MurideenGrid({required this.items, required this.onTap});
+
+  @override
+  Widget build(BuildContext context) {
+    final user = FirebaseAuth.instance.currentUser;
+    if (user == null) {
+      return Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          const Text(
+            'For Murideen',
+            style: TextStyle(
+              fontSize: 22,
+              color: Color.fromARGB(255, 246, 232, 211),
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          const SizedBox(height: 8),
+          Container(
+            padding: const EdgeInsets.all(16),
+            decoration: BoxDecoration(
+              color: Colors.white70,
+              borderRadius: BorderRadius.circular(12),
+            ),
+            child: const Text(
+              'You have to login or signup to access this section.',
+              style: TextStyle(color: Colors.black87, fontSize: 16),
+            ),
+          ),
+          const SizedBox(height: 40),
+          Divider(color: Colors.white24, thickness: 1),
+          const SizedBox(height: 10),
+        ],
+      );
+    }
+    return FutureBuilder<DocumentSnapshot>(
+      future: FirebaseFirestore.instance.collection('users').doc(user.uid).get(),
+      builder: (context, snapshot) {
+        bool isMureed = false;
+        if (snapshot.hasData && snapshot.data!.exists) {
+          final data = snapshot.data!.data() as Map<String, dynamic>?;
+          if (data != null && data['isMureed'] == true) {
+            isMureed = true;
+          }
+        }
+        if (!isMureed) {
+          return Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text(
+                'For Murideen',
+                style: TextStyle(
+                  fontSize: 22,
+                  color: Color.fromARGB(255, 246, 232, 211),
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              const SizedBox(height: 8),
+              Container(
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                  color: Colors.white70,
+                  borderRadius: BorderRadius.circular(12),
+                ),
+                child: const Text(
+                  'This section is only for Murideen.',
+                  style: TextStyle(color: Colors.black87, fontSize: 16),
+                ),
+              ),
+              const SizedBox(height: 40),
+              Divider(color: Colors.white24, thickness: 1),
+              const SizedBox(height: 10),
+            ],
+          );
+        }
+        // Show grid if isMureed
+        return Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Text(
+              'For Murideen',
+              style: TextStyle(
+                fontSize: 22,
+                color: Color.fromARGB(255, 246, 232, 211),
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+            const SizedBox(height: 8),
+            LayoutBuilder(
+              builder: (context, constraints) {
+                int crossAxisCount = (constraints.maxWidth / 120).floor().clamp(3, 6);
+                return GridView.builder(
+                  shrinkWrap: true,
+                  physics: const NeverScrollableScrollPhysics(),
+                  itemCount: items.length,
+                  gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                    crossAxisCount: crossAxisCount,
+                    crossAxisSpacing: 8,
+                    mainAxisSpacing: 8,
+                    childAspectRatio: 0.75,
+                  ),
+                  itemBuilder: (context, index) {
+                    final item = items[index];
+                    return _GridItem(
+                      icon: item['icon'],
+                      title: item['title'],
+                      onTap: () => onTap(item),
+                    );
+                  },
+                );
+              },
+            ),
+            const SizedBox(height: 40),
+            Divider(color: Colors.white24, thickness: 1),
+            const SizedBox(height: 10),
+          ],
+        );
+      },
+    );
+  }
+}
+
 
 class SpiritualContentScreen extends StatelessWidget {
   final Map<String, List<Map<String, dynamic>>> spiritualSections = {
@@ -162,6 +288,10 @@ class _SectionWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    if (title == 'For Murideen') {
+
+      return _MurideenGrid(items: items, onTap: onTap);
+    }
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
@@ -204,6 +334,7 @@ class _SectionWidget extends StatelessWidget {
       ],
     );
   }
+
 }
 
 class _GridItem extends StatelessWidget {

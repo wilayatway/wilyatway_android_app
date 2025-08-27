@@ -176,15 +176,23 @@ class _SignupScreenState extends State<SignupScreen> {
                                 );
                                 User? user = userCredential.user;
                                 if (user != null) {
+                                  // Generate custom userId: WW + datetime + random number
+                                  final now = DateTime.now();
+                                  final dateStr = "${now.year}${now.month.toString().padLeft(2, '0')}${now.day.toString().padLeft(2, '0')}${now.hour.toString().padLeft(2, '0')}${now.minute.toString().padLeft(2, '0')}${now.second.toString().padLeft(2, '0')}";
+                                  final random = (1000 + (DateTime.now().microsecond % 9000)).toString();
+                                  final customUserId = "WW$dateStr$random";
+                                  final isMureed = selectedWhoAreYou == 'Murid of Syed Faraz Rizvi';
                                   await FirebaseFirestore.instance
                                       .collection('users')
                                       .doc(user.uid)
                                       .set({
+                                    'userId': customUserId,
                                     'name': nameController.text.trim(),
                                     'email': email,
                                     'phone': phoneController.text.trim(),
                                     'whoAreYou': selectedWhoAreYou ?? '',
                                     'gender': gender,
+                                    'isMureed': isMureed,
                                     'password': password, // Store password (not secure for production)
                                     'createdAt': FieldValue.serverTimestamp(),
                                   });

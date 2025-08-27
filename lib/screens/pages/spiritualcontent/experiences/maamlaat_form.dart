@@ -1,12 +1,17 @@
+
 import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:intl/intl.dart';
 
 void showMaamlaatForm(BuildContext context) {
+
   final nameController = TextEditingController();
   final maamlaatController = TextEditingController();
   bool isSubmitting = false;
+  final user = FirebaseAuth.instance.currentUser;
+  bool isUserLoggedIn = user != null;
 
   final now = DateTime.now();
   final formattedDate = DateFormat('dd MMM yyyy, hh:mm a').format(now);
@@ -51,15 +56,40 @@ void showMaamlaatForm(BuildContext context) {
                           ),
                         ),
                         SizedBox(height: 16),
-                        TextField(
-                          controller: nameController,
-                          decoration: InputDecoration(
-                            labelText: 'Name',
-                            border: OutlineInputBorder(
-                              borderRadius: BorderRadius.circular(12),
-                            ),
-                          ),
-                        ),
+                        isUserLoggedIn
+                            ? FutureBuilder<DocumentSnapshot>(
+                                future: FirebaseFirestore.instance.collection('users').doc(user.uid).get(),
+                                builder: (context, snapshot) {
+                                  String autoName = '';
+                                  if (snapshot.hasData && snapshot.data!.exists && snapshot.data!.data() != null && (snapshot.data!.data() as Map<String, dynamic>)['name'] != null && ((snapshot.data!.data() as Map<String, dynamic>)['name'] as String).isNotEmpty) {
+                                    autoName = (snapshot.data!.data() as Map<String, dynamic>)['name'];
+                                  } else if (user.displayName != null && user.displayName!.isNotEmpty) {
+                                    autoName = user.displayName!;
+                                  } else if (user.email != null && user.email!.isNotEmpty) {
+                                    autoName = user.email!;
+                                  }
+                                  nameController.text = autoName;
+                                  return TextField(
+                                    controller: nameController,
+                                    decoration: InputDecoration(
+                                      labelText: autoName,
+                                      border: OutlineInputBorder(
+                                        borderRadius: BorderRadius.circular(12),
+                                      ),
+                                    ),
+                                    readOnly: true,
+                                  );
+                                },
+                              )
+                            : TextField(
+                                controller: nameController,
+                                decoration: InputDecoration(
+                                  labelText: 'Name',
+                                  border: OutlineInputBorder(
+                                    borderRadius: BorderRadius.circular(12),
+                                  ),
+                                ),
+                              ),
                         SizedBox(height: 16),
                         TextField(
                           controller: maamlaatController,
@@ -122,11 +152,17 @@ void showMaamlaatForm(BuildContext context) {
                                         });
 
                                         try {
+                                          String? emailToStore;
+                                          final user = FirebaseAuth.instance.currentUser;
+                                          if (user != null && user.email != null && user.email!.isNotEmpty) {
+                                            emailToStore = user.email;
+                                          }
                                           await FirebaseFirestore.instance
                                               .collection('maamlaat')
                                               .add({
                                                 'date': Timestamp.now(),
                                                 'name': name,
+                                                'email': emailToStore ?? '',
                                                 'maamlaat': maamlaat,
                                                 'status': 'unanswered',
                                                 'public': true,

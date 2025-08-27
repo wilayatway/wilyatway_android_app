@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:wilayat_way_apk/screens/pages/experiences/maamlaat_detail_screen.dart'
+import 'package:wilayat_way_apk/screens/pages/spiritualcontent/experiences/maamlaat_detail_screen.dart'
     show MaamlaatDetailScreen;
-import 'package:wilayat_way_apk/screens/pages/experiences/maamlaat_form.dart'
+import 'package:wilayat_way_apk/screens/pages/spiritualcontent/experiences/maamlaat_form.dart'
     show showMaamlaatForm;
 
 class MaamlaatListScreen extends StatefulWidget {
