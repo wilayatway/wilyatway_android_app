@@ -20,6 +20,10 @@ class UserAvatarName extends StatelessWidget {
             displayName = data['name'];
           }
         }
+        // Fallback to email if name is empty
+        if (displayName.isEmpty) {
+          displayName = user.email ?? '';
+        }
         if (displayName.isEmpty) return const SizedBox.shrink();
         return GestureDetector(
           onTap: () {

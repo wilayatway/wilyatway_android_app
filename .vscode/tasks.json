@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Add firebase_messaging to pubspec.yaml",
+			"type": "shell",
+			"command": "flutter pub add firebase_messaging",
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
