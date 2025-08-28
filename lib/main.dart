@@ -33,7 +33,7 @@ Future<void> _setupFCM() async {
 
   // Get FCM token
   String? token = await FirebaseMessaging.instance.getToken();
-  print('FCM Token: ' + (token ?? 'null'));
+  print('FCM Token: ${token ?? 'null'}');
 
   // Store FCM token in Firestore for logged-in user
   final user = FirebaseAuth.instance.currentUser;
