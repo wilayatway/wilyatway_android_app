@@ -114,7 +114,8 @@ class DaroodPopup {
         },
       );
     } catch (e) {
-      debugPrint("Error fetching Darood: $e");
+      // Avoid casting exception to prevent web platform issues
+      debugPrint('Error fetching Darood: ${e.runtimeType}');
     }
   }
 }

@@ -11,18 +11,27 @@ import 'package:firebase_auth/firebase_auth.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  // Initialize Firebase first so widgets depending on it won't build
+  // before the default app exists (prevents [core/no-app] errors).
+  try {
+    await Firebase.initializeApp(
+      options: DefaultFirebaseOptions.currentPlatform,
+    );
+  } catch (e) {
+    print("Firebase init error: $e");
+  }
+
+  // Initialize notifications and FCM after Firebase is ready. Keep in a
+  // separate try/catch so notification failures don't prevent app startup.
   try {
     await NotificationService.initialize();
     await NotificationService.scheduleAllNotifications();
     await NotificationService.requestNotificationPermission();
-    await Firebase.initializeApp(
-      options: DefaultFirebaseOptions.currentPlatform,
-    );
 
     // FCM setup
     await _setupFCM();
   } catch (e) {
-    print("Error during initialization: $e");
+    print("Notification/FCM init error: $e");
   }
   runApp(const WilayatWayApp());
 }

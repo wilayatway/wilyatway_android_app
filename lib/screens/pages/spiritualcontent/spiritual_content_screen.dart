@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/experiences/maamlaat_list_screen.dart';
+import 'package:wilayat_way_apk/screens/pages/spiritualcontent/irfanitafseer/irfani_admin_uploader.dart';
+import 'package:wilayat_way_apk/screens/pages/spiritualcontent/irfanitafseer/irfani_tafseer_screen.dart';
+import 'package:wilayat_way_apk/screens/pages/spiritualcontent/ruhani_ilaj/ruhani_ilaj_list_screen.dart';
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/murshid%20gallery/shajra_nasab_screen.dart';
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/asma%20ul%20husna/asma_ul_husna_screen.dart';
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/asma%20ul%20husna/asma_ul_nabi.dart';
@@ -168,7 +171,7 @@ class _SpiritualContentScreenState extends State<SpiritualContentScreen> {
       {'title': 'Ruhani Ilaaj', 'icon': Icons.healing},
       {'title': 'Zikrullah', 'icon': Icons.auto_awesome},
     ],
-    'For Murideen' : [
+    'For Murideen': [
       {'title': 'Tasks/Wazifa', 'icon': Icons.repeat},
       {'title': 'Spiritual-Experiance/Maamlat', 'icon': Icons.post_add},
       {'title': 'Class', 'icon': Icons.video_call},
@@ -265,7 +268,7 @@ class _SpiritualContentScreenState extends State<SpiritualContentScreen> {
       case 'Tasks/Wazifa':
         screen = TaskWazifaScreen();
         break;
-      case 'Shajra':
+      case 'Shajra Pak':
         screen = ShajraNasabScreen();
         break;
       case 'Asma-ul-Husna':
@@ -277,14 +280,23 @@ class _SpiritualContentScreenState extends State<SpiritualContentScreen> {
       case 'Kashf o Muraqaba':
         screen = KashfMuraqabaScreen();
         break;
+      case 'Muraqaba':
+        screen = KashfMuraqabaScreen();
+        break;
       case 'Murshid Gallery':
         screen = MurshidGalleryPage();
+        break;
+      case 'Ruhani Ilaaj':
+        screen = const RuhaniIlajListScreen();
         break;
       case 'Spiritual Glossary':
         screen = SpiritualGlossaryPage();
         break;
       case 'Spiritual Dreams':
         screen = SpiritualDreamsScreen();
+        break;
+      case 'Irfani Tafseer':
+        screen = IrfaniTafseelScreen();
         break;
       default:
         screen = PlaceholderScreen(title: title);
@@ -322,17 +334,14 @@ class _SpiritualContentScreenState extends State<SpiritualContentScreen> {
                   bottom: 16,
                 ),
                 sliver: SliverList(
-                  delegate: SliverChildBuilderDelegate(
-                    (context, sectionIdx) {
-                      final section = allSections.entries.elementAt(sectionIdx);
-                      return _SectionWidget(
-                        title: section.key,
-                        items: section.value,
-                        onTap: (item) => navigateToScreen(context, item['title']),
-                      );
-                    },
-                    childCount: allSections.length,
-                  ),
+                  delegate: SliverChildBuilderDelegate((context, sectionIdx) {
+                    final section = allSections.entries.elementAt(sectionIdx);
+                    return _SectionWidget(
+                      title: section.key,
+                      items: section.value,
+                      onTap: (item) => navigateToScreen(context, item['title']),
+                    );
+                  }, childCount: allSections.length),
                 ),
               ),
             ],
@@ -342,7 +351,6 @@ class _SpiritualContentScreenState extends State<SpiritualContentScreen> {
     );
   }
 }
-
 
 class _SectionWidget extends StatelessWidget {
   final String title;

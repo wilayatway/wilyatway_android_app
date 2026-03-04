@@ -85,7 +85,7 @@ class _SignupScreenState extends State<SignupScreen> {
                   ),
                   const SizedBox(height: 16),
                   DropdownButtonFormField<String>(
-                    value: selectedWhoAreYou,
+                    initialValue: selectedWhoAreYou,
                     isExpanded: true,
                     decoration: const InputDecoration(
                       labelText: 'Who are you? (Optional)',

@@ -67,8 +67,8 @@ class _DuroodScreenState extends State<DuroodScreen> {
         duroods = snapshot.docs.map((doc) => Durood.fromJson(doc.data() as Map<String, dynamic>)).toList();
       });
     } catch (e) {
-      // Optionally show error
-      debugPrint('Error fetching daroods: $e');
+      // Avoid casting exception to prevent web platform issues
+      debugPrint('Error fetching daroods: ${e.runtimeType}');
     }
   }
 

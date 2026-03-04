@@ -53,10 +53,20 @@ class DashboardScreen extends StatelessWidget {
                                   IconButton(
                                     icon: const Icon(Icons.person, color: Colors.black87, size: 32),
                                     onPressed: () {
-                                      final user = FirebaseAuth.instance.currentUser;
-                                      if (user != null) {
-                                        Navigator.pushNamed(context, '/user_details');
-                                      } else {
+                                      try {
+                                        final user = FirebaseAuth.instance.currentUser;
+                                        if (user != null) {
+                                          Navigator.pushNamed(context, '/user_details');
+                                        } else {
+                                          Navigator.push(
+                                            context,
+                                            MaterialPageRoute(
+                                              builder: (_) => const AuthScreen(),
+                                            ),
+                                          );
+                                        }
+                                      } catch (e) {
+                                        debugPrint('Error accessing Firebase user: $e');
                                         Navigator.push(
                                           context,
                                           MaterialPageRoute(
@@ -66,7 +76,7 @@ class DashboardScreen extends StatelessWidget {
                                       }
                                     },
                                   ),
-                                  const UserAvatarName(),
+                                  const Expanded(child: UserAvatarName()),
                                 ],
                               ),
                             ),
@@ -109,7 +119,7 @@ class DashboardScreen extends StatelessWidget {
                               ),
                               child: Center(
                                 child: SizedBox(
-                                  width: 400, // max width for 2 cards per row
+                                  width: constraints.maxWidth > 500 ? 400 : constraints.maxWidth * 0.9, // responsive width
                                   child: LayoutBuilder(
                                     builder: (context, constraints) {
                                       int crossAxisCount = 2; // always 2 cards per row
