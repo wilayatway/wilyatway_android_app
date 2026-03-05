@@ -23,8 +23,8 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.example.wilayat_way_app"
-    compileSdk = 35
+    namespace = "com.wilayat_way_app"
+    compileSdk = 36
     ndkVersion = "27.0.12077973"
 
     compileOptions {
@@ -38,9 +38,9 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.wilayat_way_app"
-        minSdk = 21
-        targetSdk = 35
+        applicationId = "com.wilayat_way_app"
+        minSdk = flutter.minSdkVersion
+        targetSdk = 36
         versionCode = flutter.versionCode
         versionName = flutter.versionName
     }

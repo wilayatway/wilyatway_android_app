@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'models/irfani_model.dart';
 import 'irfani_tafseer_detail_screen.dart';
-import 'package:flutter/foundation.dart';
 
 class IrfaniTafseelScreen extends StatefulWidget {
   const IrfaniTafseelScreen({super.key});

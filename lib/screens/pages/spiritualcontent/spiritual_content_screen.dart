@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/experiences/maamlaat_list_screen.dart';
-import 'package:wilayat_way_apk/screens/pages/spiritualcontent/irfanitafseer/irfani_admin_uploader.dart';
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/irfanitafseer/irfani_tafseer_screen.dart';
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/ruhani_ilaj/ruhani_ilaj_list_screen.dart';
 import 'package:wilayat_way_apk/screens/pages/spiritualcontent/murshid%20gallery/shajra_nasab_screen.dart';
